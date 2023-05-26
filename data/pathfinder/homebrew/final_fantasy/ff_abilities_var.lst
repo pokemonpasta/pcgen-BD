@@ -39,11 +39,13 @@ CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfSize|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfType|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfBaseSpeed|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfLanguages|0
+CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfBondToTheLand|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfDefensiveTraining|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfHardy|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfStability|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfGreed|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfStonecunning|0
+CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfMasterTinker|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfHatred|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfWeaponFamiliarity|0
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD		DEFINE:DwarfDarkvision|0
@@ -242,10 +244,12 @@ CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfType|1|PREFACT:1,Ab
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfBaseSpeed|1|PREFACT:1,Abilities,DwarfBaseSpeed=True
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfLanguages|1|PREFACT:1,Abilities,DwarfLanguages=True
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfDefensiveTraining|1|PREFACT:1,Abilities,DwarfDefensiveTraining=True
+CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfBondToTheLand|1|PREFACT:1,Abilities,DwarfBondToTheLand=True
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfHardy|1|PREFACT:1,Abilities,DwarfHardy=True
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfStability|1|PREFACT:1,Abilities,DwarfStability=True
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfGreed|1|PREFACT:1,Abilities,DwarfGreed=True
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfStonecunning|1|PREFACT:1,Abilities,DwarfStonecunning=True
+CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfMasterTinker|1|PREFACT:1,Abilities,DwarfMasterTinker=True
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfHatred|1|PREFACT:1,Abilities,DwarfHatred=True
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfWeaponFamiliarity|1|PREFACT:1,Abilities,DwarfWeaponFamiliarity=True
 CATEGORY=Internal|Racial Traits ~ Dwarf.MOD			BONUS:VAR|DwarfDarkvision|1|PREFACT:1,Abilities,DwarfDarkvision=True

@@ -8,3 +8,16 @@ Knowledge (Technology)			KEYSTAT:INT	USEUNTRAINED:NO				TYPE:Intelligence.Knowle
 Navigate					KEYSTAT:INT	USEUNTRAINED:YES				TYPE:Intelligence.Base						PREVARLT:AnimalCompanionSkill,1	SOURCEPAGE:p.
 Pilot						KEYSTAT:DEX				ACHECK:NONE		TYPE:Dexterity.Base						PREVARLT:AnimalCompanionSkill,1	SOURCEPAGE:p.
 Repair					KEYSTAT:INT	USEUNTRAINED:YES				TYPE:Intelligence.Base						PREVARLT:AnimalCompanionSkill,1	SOURCEPAGE:p.
+
+###Block - Situations
+Appraise.MOD		SITUATION:Precious Metals or Gemstones
+
+Perception.MOD		SITUATION:Against Flying Creatures
+Perception.MOD		SITUATION:Notice Sleight of Hand
+Perception.MOD		SITUATION:Unusual Stonework
+
+Knowledge (Arcana).MOD		SITUATION:Identify Dragons
+Knowledge (History).MOD		SITUATION:Dwarves or their Enemies
+Knowledge (Religion).MOD	SITUATION:Identify Undead
+
+Survival.MOD			SITUATION:Tracks made by Giants
