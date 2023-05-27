@@ -7,7 +7,7 @@ Use Fractional Save	VISIBLE:YES	DEFINE:UseFractionalSave|0	BONUS:VAR|UseFraction
 Default Bonus Languages ~ Aegyl		VISIBLE:NO	LANGBONUS:Draconic,Dwarven,Elvaan,Galkan,Giant,Goblin,Orc
 Default Bonus Languages ~ Bangaa		VISIBLE:NO	LANGBONUS:Draconic,Giant,Ignan,Numish,Seeq,Terran
 Default Bonus Languages ~ Burmecian		VISIBLE:NO	LANGBONUS:Draconic,Dwarven,Elvaan,Galkan,Giant,Goblin,Orc
-Default Bonus Languages ~ Dwarf		VISIBLE:NO	LANGBONUS:Galkan,Giant,Goblin,Lalafell,Orc
+Default Bonus Languages ~ Dwarf		VISIBLE:NO	LANGBONUS:Galkan,Giant,Goblin,Lalafellan,Orc
 Default Bonus Languages ~ Elvaan		VISIBLE:NO	LANGBONUS:Celestial,Draconic,Galkan,Gnoll,Goblin,Lalafell,Orc
 Default Bonus Languages ~ Galka		VISIBLE:NO	LANGBONUS:Dwarven,Elvaan,Giant,Goblin,Lalafell,Orc
 Default Bonus Languages ~ Gria		VISIBLE:NO	LANGBONUS:Bangese,Giant,Goblin,Ignan,Seeq,Terran
