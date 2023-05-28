@@ -16,8 +16,11 @@ Perception.MOD		SITUATION:Against Flying Creatures
 Perception.MOD		SITUATION:Notice Sleight of Hand
 Perception.MOD		SITUATION:Unusual Stonework
 
+Profession (Sailor).MOD		SITUATION:At Sea
+
 Knowledge (Arcana).MOD		SITUATION:Identify Dragons
 Knowledge (History).MOD		SITUATION:Dwarves or their Enemies
 Knowledge (Religion).MOD	SITUATION:Identify Undead
 
 Survival.MOD			SITUATION:Tracks made by Giants
+Survival.MOD			SITUATION:At Sea
