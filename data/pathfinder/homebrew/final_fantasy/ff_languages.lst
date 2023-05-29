@@ -1,7 +1,6 @@
 
 Aegyl				TYPE:Spoken.Base
 Aklo				TYPE:Spoken.Base
-Auran				TYPE:Spoken.Base
 Bangese			TYPE:Spoken.Base
 Burmecian			TYPE:Spoken.Base
 Celestial			TYPE:Spoken.Base
@@ -13,9 +12,7 @@ Galkan			TYPE:Spoken.Base
 Giant				TYPE:Spoken.Base
 Gnoll				TYPE:Spoken.Base
 Goblin			TYPE:Spoken.Base
-Ignan				TYPE:Spoken.Base
 Lalafellan			TYPE:Spoken.Base
-Mithra			TYPE:Spoken.Base
 Mithran			TYPE:Spoken.Base
 Moogle			TYPE:Spoken.Base
 Numish			TYPE:Spoken.Base
@@ -24,7 +21,6 @@ Queran			TYPE:Spoken.Base
 Ronsaur			TYPE:Spoken.Base
 Seeq				TYPE:Spoken.Base
 Sylvan			TYPE:Spoken.Base
-Terran			TYPE:Spoken.Base
 Undercommon			TYPE:Spoken.Base
 Vargen			TYPE:Spoken.Base
 Vieran			TYPE:Spoken.Base
@@ -32,3 +28,14 @@ Vieran			TYPE:Spoken.Base
 # Extra
 Abyssal	TYPE:Spoken
 Infernal	TYPE:Spoken
+
+# Elemental
+Aquan				TYPE:Spoken.Base
+Auran				TYPE:Spoken.Base
+Auroran			TYPE:Spoken.Base
+Enochian			TYPE:Spoken.Base
+Ignan				TYPE:Spoken.Base
+Runic				TYPE:Spoken.Base
+Terran			TYPE:Spoken.Base
+Thorian			TYPE:Spoken.Base
+Umbran			TYPE:Spoken.Base
