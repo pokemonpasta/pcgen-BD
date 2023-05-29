@@ -12,6 +12,8 @@ Repair					KEYSTAT:INT	USEUNTRAINED:YES				TYPE:Intelligence.Base						PREVARLT:
 ###Block - Situations
 Appraise.MOD		SITUATION:Precious Metals or Gemstones
 
+Diplomacy.MOD		SITUATION:Gather Information
+
 Perception.MOD		SITUATION:Against Flying Creatures
 Perception.MOD		SITUATION:Notice Sleight of Hand
 Perception.MOD		SITUATION:Unusual Stonework
@@ -21,6 +23,8 @@ Profession (Sailor).MOD		SITUATION:At Sea
 Knowledge (Arcana).MOD		SITUATION:Identify Dragons
 Knowledge (History).MOD		SITUATION:Dwarves or their Enemies
 Knowledge (Religion).MOD	SITUATION:Identify Undead
+
+Sense Motive.MOD		SITUATION:Hunch about a Social Situation
 
 Survival.MOD			SITUATION:Tracks made by Giants
 Survival.MOD			SITUATION:At Sea

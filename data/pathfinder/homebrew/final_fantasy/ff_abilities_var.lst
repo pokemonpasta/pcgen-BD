@@ -54,9 +54,11 @@ CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanSize|0
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanType|0
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanBaseSpeed|0
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanLanguages|0
+CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanFearless|0
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanKeenSenses|0
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanMartialBackground|0
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanNobleUpbringing|0
+CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanGatecrasher|0
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanHatred|0
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanWeaponFamiliarity|0
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD		DEFINE:ElvaanLowlightVision|0
@@ -258,9 +260,11 @@ CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanSize|1|PREFACT:1,
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanType|1|PREFACT:1,Abilities,ElvaanType=True
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanBaseSpeed|1|PREFACT:1,Abilities,ElvaanBaseSpeed=True
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanLanguages|1|PREFACT:1,Abilities,ElvaanLanguages=True
+CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanFearless|1|PREFACT:1,Abilities,ElvaanFearless=True
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanKeenSenses|1|PREFACT:1,Abilities,ElvaanKeenSenses=True
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanMartialBackground|1|PREFACT:1,Abilities,ElvaanMartialBackground=True
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanNobleUpbringing|1|PREFACT:1,Abilities,ElvaanNobleUpbringing=True
+CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanGatecrasher|1|PREFACT:1,Abilities,ElvaanGatecrasher=True
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanHatred|1|PREFACT:1,Abilities,ElvaanHatred=True
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanWeaponFamiliarity|1|PREFACT:1,Abilities,ElvaanWeaponFamiliarity=True
 CATEGORY=Internal|Racial Traits ~ Elvaan.MOD			BONUS:VAR|ElvaanLowlightVision|1|PREFACT:1,Abilities,ElvaanLowlightVision=True
