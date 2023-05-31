@@ -67,7 +67,7 @@ CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaSize|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaType|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaBaseSpeed|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaLanguages|0
-CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaHearty|0
+CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaHardy|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaStability|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaImposingFigure|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaMetalworker|0
@@ -273,7 +273,7 @@ CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaSize|1|PREFACT:1,Ab
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaType|1|PREFACT:1,Abilities,GalkaType=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaBaseSpeed|1|PREFACT:1,Abilities,GalkaBaseSpeed=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaLanguages|1|PREFACT:1,Abilities,GalkaLanguages=True
-CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaHearty|1|PREFACT:1,Abilities,GalkaHearty=True
+CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaHardy|1|PREFACT:1,Abilities,GalkaHardy=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaStability|1|PREFACT:1,Abilities,GalkaStability=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaImposingFigure|1|PREFACT:1,Abilities,GalkaImposingFigure=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaMetalworker|1|PREFACT:1,Abilities,GalkaMetalworker=True
