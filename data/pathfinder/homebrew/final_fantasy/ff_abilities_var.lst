@@ -70,8 +70,11 @@ CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaLanguages|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaHardy|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaStability|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaImposingFigure|0
+CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaMiningServitude|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaMetalworker|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaFerocity|0
+CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaHatred|0
+CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaRelentless|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaWeaponFamiliarity|0
 CATEGORY=Internal|Racial Traits ~ Galka.MOD		DEFINE:GalkaLowLightVision|0
 CATEGORY=Internal|Racial Traits ~ Gria.MOD		DEFINE:GriaAbilityScoreRacialTraits|0
@@ -275,9 +278,12 @@ CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaBaseSpeed|1|PREFACT
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaLanguages|1|PREFACT:1,Abilities,GalkaLanguages=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaHardy|1|PREFACT:1,Abilities,GalkaHardy=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaStability|1|PREFACT:1,Abilities,GalkaStability=True
+CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaMiningServitude|1|PREFACT:1,Abilities,GalkaMiningServitude=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaImposingFigure|1|PREFACT:1,Abilities,GalkaImposingFigure=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaMetalworker|1|PREFACT:1,Abilities,GalkaMetalworker=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaFerocity|1|PREFACT:1,Abilities,GalkaFerocity=True
+CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaHatred|1|PREFACT:1,Abilities,GalkaHatred=True
+CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaRelentless|1|PREFACT:1,Abilities,GalkaRelentless=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaWeaponFamiliarity|1|PREFACT:1,Abilities,GalkaWeaponFamiliarity=True
 CATEGORY=Internal|Racial Traits ~ Galka.MOD			BONUS:VAR|GalkaLowLightVision|1|PREFACT:1,Abilities,GalkaLowLightVision=True
 CATEGORY=Internal|Racial Traits ~ Gria.MOD			BONUS:VAR|GriaAbilityScoreRacialTraits|1|PREFACT:1,Abilities,GriaAbilityScoreRacialTraits=True
