@@ -93,7 +93,7 @@ CATEGORY=Internal|Racial Traits ~ Hume.MOD		DEFINE:HumeSize|0
 CATEGORY=Internal|Racial Traits ~ Hume.MOD		DEFINE:HumeBaseSpeed|0
 CATEGORY=Internal|Racial Traits ~ Hume.MOD		DEFINE:HumeLanguages|0
 CATEGORY=Internal|Racial Traits ~ Hume.MOD		DEFINE:HumeBonusFeat|0
-CATEGORY=Internal|Racial Traits ~ Hume.MOD		DEFINE:HumeSkills|0
+CATEGORY=Internal|Racial Traits ~ Hume.MOD		DEFINE:HumeSkilled|0
 CATEGORY=Internal|Racial Traits ~ Mandragora.MOD	DEFINE:MandragoraAbilityScoreRacialTraits|0
 CATEGORY=Internal|Racial Traits ~ Mandragora.MOD	DEFINE:MandragoraType|0
 CATEGORY=Internal|Racial Traits ~ Mandragora.MOD	DEFINE:MandragoraSize|0
@@ -302,7 +302,7 @@ CATEGORY=Internal|Racial Traits ~ Hume.MOD			BONUS:VAR|HumeSize|1|PREFACT:1,Abil
 CATEGORY=Internal|Racial Traits ~ Hume.MOD			BONUS:VAR|HumeBaseSpeed|1|PREFACT:1,Abilities,HumeBaseSpeed=True
 CATEGORY=Internal|Racial Traits ~ Hume.MOD			BONUS:VAR|HumeLanguages|1|PREFACT:1,Abilities,HumeLanguages=True
 CATEGORY=Internal|Racial Traits ~ Hume.MOD			BONUS:VAR|HumeBonusFeat|1|PREFACT:1,Abilities,HumeBonusFeat=True
-CATEGORY=Internal|Racial Traits ~ Hume.MOD			BONUS:VAR|HumeSkills|1|PREFACT:1,Abilities,HumeSkills=True
+CATEGORY=Internal|Racial Traits ~ Hume.MOD			BONUS:VAR|HumeSkilled|1|PREFACT:1,Abilities,HumeSkilled=True
 CATEGORY=Internal|Racial Traits ~ Mandragora.MOD		BONUS:VAR|MandragoraAbilityScoreRacialTraits|1|PREFACT:1,Abilities,MandragoraAbilityScoreRacialTraits=True
 CATEGORY=Internal|Racial Traits ~ Mandragora.MOD		BONUS:VAR|MandragoraType|1|PREFACT:1,Abilities,MandragoraType=True
 CATEGORY=Internal|Racial Traits ~ Mandragora.MOD		BONUS:VAR|MandragoraSize|1|PREFACT:1,Abilities,MandragoraSize=True

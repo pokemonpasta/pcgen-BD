@@ -1,0 +1,8 @@
+
+###Block: Companion Ability Bonuses from Master Racial Traits
+# This is taken from pf1e APG but may need changes to entries based on what pets are allowed in ffd20. The data logic should be the same, however
+# (REMOVE:) As of writing this, only races have been implemented so this file shouldn't be loaded yet.
+FOLLOWER:AnimalCompanionLVL=1	TYPE:Animal Companion	BONUS:ABILITYPOOL|Companion Ability Bonus|1|PREVARGTEQ:mastervar("Companion_MasterRacialTrait_AbilityBonus"),1
+FOLLOWER:FamiliarLVL=1		TYPE:Familiar		BONUS:ABILITYPOOL|Companion Ability Bonus|1|PREVARGTEQ:mastervar("Companion_MasterRacialTrait_AbilityBonus"),1
+FOLLOWER:SpecialMountLVL=1	TYPE:Special Mount	BONUS:ABILITYPOOL|Companion Ability Bonus|1|PREVARGTEQ:mastervar("Companion_MasterRacialTrait_AbilityBonus"),1
+FOLLOWER:CavalierMountLVL=1	TYPE:Cavalier Mount	BONUS:ABILITYPOOL|Companion Ability Bonus|1|PREVARGTEQ:mastervar("Companion_MasterRacialTrait_AbilityBonus"),1

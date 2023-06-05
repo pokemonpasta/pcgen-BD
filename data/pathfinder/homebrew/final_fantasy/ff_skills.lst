@@ -10,7 +10,13 @@ Pilot						KEYSTAT:DEX				ACHECK:NONE		TYPE:Dexterity.Base						PREVARLT:AnimalC
 Repair					KEYSTAT:INT	USEUNTRAINED:YES				TYPE:Intelligence.Base						PREVARLT:AnimalCompanionSkill,1	SOURCEPAGE:p.
 
 ###Block - Situations
+Acrobatics.MOD			SITUATION:Narrow Surfaces and Uneven Ground
+Acrobatics.MOD			SITUATION:Slippery Conditions
+
 Appraise.MOD		SITUATION:Precious Metals or Gemstones
+
+Climb.MOD			SITUATION:Narrow Surfaces and Uneven Ground
+Climb.MOD			SITUATION:Slippery Conditions
 
 Diplomacy.MOD		SITUATION:Gather Information
 
@@ -30,3 +36,4 @@ Sense Motive.MOD		SITUATION:Hunch about a Social Situation
 Survival.MOD			SITUATION:Tracks made by Giants
 Survival.MOD			SITUATION:At Sea
 Survival.MOD			SITUATION:Underground
+Survival.MOD			SITUATION:Urban and Underground
