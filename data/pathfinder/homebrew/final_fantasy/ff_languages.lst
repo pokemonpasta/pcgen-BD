@@ -1,33 +1,45 @@
 
-Aegyl				TYPE:Spoken.Base
-Aklo				TYPE:Spoken.Base
-Bangese			TYPE:Spoken.Base
-Burmecian			TYPE:Spoken.Base
-Celestial			TYPE:Spoken.Base
+# Common Languages
 Common			TYPE:Spoken.Base
+#
+Aegyllan			TYPE:Spoken.Base
+Albhedian			TYPE:Spoken.Base
+Aklo				TYPE:Spoken.Base
+Banganese			TYPE:Spoken.Base
+Burmecian			TYPE:Spoken.Base
 Draconic			TYPE:Spoken.Base
 Dwarven			TYPE:Spoken.Base
 Elvaan			TYPE:Spoken.Base
 Galkan			TYPE:Spoken.Base
-Giant				TYPE:Spoken.Base
-Gnoll				TYPE:Spoken.Base
-Goblin			TYPE:Spoken.Base
+Garif				TYPE:Spoken.Base
+Hypello			TYPE:Spoken.Base
+Lambkin			TYPE:Spoken.Base
 Lalafellan			TYPE:Spoken.Base
+Lupin				TYPE:Spoken.Base
+Mandragoran			TYPE:Spoken.Base
 Mithran			TYPE:Spoken.Base
 Moogle			TYPE:Spoken.Base
 Numish			TYPE:Spoken.Base
-Orc				TYPE:Spoken.Base
 Queran			TYPE:Spoken.Base
+Roegadyn			TYPE:Spoken.Base
 Ronsaur			TYPE:Spoken.Base
 Seeq				TYPE:Spoken.Base
-Sylvan			TYPE:Spoken.Base
-Undercommon			TYPE:Spoken.Base
-Vargen			TYPE:Spoken.Base
+Tonberry			TYPE:Spoken.Base
 Vieran			TYPE:Spoken.Base
 
-# Extra
-Abyssal	TYPE:Spoken
-Infernal	TYPE:Spoken
+# Beast Tribe
+Antican			TYPE:Spoken.Base
+Goblin			TYPE:Spoken.Base
+Kojin				TYPE:Spoken.Base
+Loporrit			TYPE:Spoken.Base
+Matanga			TYPE:Spoken.Base
+Orcish			TYPE:Spoken.Base
+Qiqirn			TYPE:Spoken.Base
+Quadav			TYPE:Spoken.Base
+Sahagin			TYPE:Spoken.Base
+Sylvan			TYPE:Spoken.Base
+Vanu				TYPE:Spoken.Base
+Yagudo			TYPE:Spoken.Base
 
 # Elemental
 Aquan				TYPE:Spoken.Base
@@ -39,3 +51,9 @@ Runic				TYPE:Spoken.Base
 Terran			TYPE:Spoken.Base
 Thorian			TYPE:Spoken.Base
 Umbran			TYPE:Spoken.Base
+
+# Extra
+Abyssal	TYPE:Spoken
+Celestial	TYPE:Spoken
+Infernal	TYPE:Spoken
+Undercommon	TYPE:Spoken
