@@ -36,6 +36,9 @@ Size ~ Diminutive		CATEGORY:Internal	TEMPLATE:Size ~ Diminutive
 Size ~ Tiny			CATEGORY:Internal	TEMPLATE:Size ~ Tiny
 Size ~ Small/Medium	CATEGORY:Internal	TEMPLATE:Size ~ Small/Medium
 
+###Block: Set number of languages granted by Linguistics skill
+# Ability Name			Define					Modify VAR
+CATEGORY=Internal|Default.MOD	DEFINE:Linguisitcs_NumLanguages|0	BONUS:VAR|Linguisitcs_NumLanguages|1
 
 
 # Armor Values - Based upon discussion with Andrew. This model closely matches what he has.

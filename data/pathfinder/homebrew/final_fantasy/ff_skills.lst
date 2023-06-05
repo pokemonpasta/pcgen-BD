@@ -12,6 +12,7 @@ Repair					KEYSTAT:INT	USEUNTRAINED:YES				TYPE:Intelligence.Base						PREVARLT:
 ###Block - Situations
 Acrobatics.MOD			SITUATION:Narrow Surfaces and Uneven Ground
 Acrobatics.MOD			SITUATION:Slippery Conditions
+Acrobatics.MOD			SITUATION:Threatened Squares
 
 Appraise.MOD		SITUATION:Precious Metals or Gemstones
 
@@ -33,7 +34,9 @@ Knowledge (Religion).MOD	SITUATION:Identify Undead
 
 Sense Motive.MOD		SITUATION:Hunch about a Social Situation
 
-Survival.MOD			SITUATION:Tracks made by Giants
 Survival.MOD			SITUATION:At Sea
+Survival.MOD			SITUATION:Avoid Becoming Lost
+Survival.MOD			SITUATION:Ruins of Cities
+Survival.MOD			SITUATION:Tracks made by Giants
 Survival.MOD			SITUATION:Underground
 Survival.MOD			SITUATION:Urban and Underground
