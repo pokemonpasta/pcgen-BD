@@ -121,6 +121,7 @@ CATEGORY=Internal|Racial Traits ~ Mithra.MOD		DEFINE:MithraSize|0
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD		DEFINE:MithraBaseSpeed|0
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD		DEFINE:MithraLanguages|0
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD		DEFINE:MithraCat'sLuck|0
+CATEGORY=Internal|Racial Traits ~ Mithra.MOD		DEFINE:MithraNimbleFaller|0
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD		DEFINE:MithraNaturalHunter|0
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD		DEFINE:MithraSprinter|0
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD		DEFINE:MithraLowLightVision|0
@@ -334,6 +335,7 @@ CATEGORY=Internal|Racial Traits ~ Mithra.MOD			BONUS:VAR|MithraSize|1|PREFACT:1,
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD			BONUS:VAR|MithraBaseSpeed|1|PREFACT:1,Abilities,MithraBaseSpeed=True
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD			BONUS:VAR|MithraLanguages|1|PREFACT:1,Abilities,MithraLanguages=True
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD			BONUS:VAR|MithraCat'sLuck|1|PREFACT:1,Abilities,MithraCat'sLuck=True
+CATEGORY=Internal|Racial Traits ~ Mithra.MOD			BONUS:VAR|MithraNimbleFaller|1|PREFACT:1,Abilities,MithraNimbleFaller=True
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD			BONUS:VAR|MithraNaturalHunter|1|PREFACT:1,Abilities,MithraNaturalHunter=True
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD			BONUS:VAR|MithraSprinter|1|PREFACT:1,Abilities,MithraSprinter=True
 CATEGORY=Internal|Racial Traits ~ Mithra.MOD			BONUS:VAR|MithraLowLightVision|1|PREFACT:1,Abilities,MithraLowLightVision=True
