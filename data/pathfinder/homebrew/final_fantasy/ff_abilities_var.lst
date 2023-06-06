@@ -133,6 +133,7 @@ CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleSize|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleBaseSpeed|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleLanguages|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleDefensiveTraining|0
+CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleEternalHope|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleGoodMerchant|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleKeenSenses|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleConstructFamiliarity|0
@@ -349,6 +350,7 @@ CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleSize|1|PREFACT:1,
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleBaseSpeed|1|PREFACT:1,Abilities,MoogleBaseSpeed=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleLanguages|1|PREFACT:1,Abilities,MoogleLanguages=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleDefensiveTraining|1|PREFACT:1,Abilities,MoogleDefensiveTraining=True
+CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleEternalHope|1|PREFACT:1,Abilities,MoogleEternalHope=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleGoodMerchant|1|PREFACT:1,Abilities,MoogleGoodMerchant=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleKeenSenses|1|PREFACT:1,Abilities,MoogleKeenSenses=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleConstructFamiliarity|1|PREFACT:1,Abilities,MoogleConstructFamiliarity=True

@@ -19,6 +19,9 @@ Appraise.MOD		SITUATION:Precious Metals or Gemstones
 Climb.MOD			SITUATION:Narrow Surfaces and Uneven Ground
 Climb.MOD			SITUATION:Slippery Conditions
 
+Craft (Alchemy).MOD	SITUATION:Make Poison
+
+Diplomacy.MOD		SITUATION:Business Transactions
 Diplomacy.MOD		SITUATION:Gather Information
 
 Perception.MOD		SITUATION:Against Flying Creatures
