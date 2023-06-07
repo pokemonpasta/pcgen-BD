@@ -134,8 +134,11 @@ CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleBaseSpeed|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleLanguages|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleDefensiveTraining|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleEternalHope|0
+CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleEmissary|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleGoodMerchant|0
+CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleHandy|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleKeenSenses|0
+CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleScavenger|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleConstructFamiliarity|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleLowLightVision|0
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD		DEFINE:MoogleHydrophobia|0
@@ -351,8 +354,11 @@ CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleBaseSpeed|1|PREFA
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleLanguages|1|PREFACT:1,Abilities,MoogleLanguages=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleDefensiveTraining|1|PREFACT:1,Abilities,MoogleDefensiveTraining=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleEternalHope|1|PREFACT:1,Abilities,MoogleEternalHope=True
+CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleEmissary|1|PREFACT:1,Abilities,MoogleEmissary=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleGoodMerchant|1|PREFACT:1,Abilities,MoogleGoodMerchant=True
+CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleHandy|1|PREFACT:1,Abilities,MoogleHandy=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleKeenSenses|1|PREFACT:1,Abilities,MoogleKeenSenses=True
+CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleScavenger|1|PREFACT:1,Abilities,MoogleScavenger=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleConstructFamiliarity|1|PREFACT:1,Abilities,MoogleConstructFamiliarity=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleLowLightVision|1|PREFACT:1,Abilities,MoogleLowLightVision=True
 CATEGORY=Internal|Racial Traits ~ Moogle.MOD			BONUS:VAR|MoogleHydrophobia|1|PREFACT:1,Abilities,MoogleHydrophobia=True
