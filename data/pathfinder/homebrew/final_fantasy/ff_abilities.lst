@@ -22,23 +22,56 @@ CATEGORY=Internal|Default.MOD	DEFINE:KnightSwordExoticUse|0		BONUS:VAR|KnightSwo
 
 CATEGORY=Internal|Default.MOD	DEFINE:UseFractionalBAB|0
 CATEGORY=Internal|Default.MOD	DEFINE:UseFractionalSave|0
-CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangAegyl|0
-CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangBangese|0
+
+### Language Variables
+# Common Languages
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangAegyllan|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangAlbhedian|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangAklo|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangBanganese|0
 CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangBurmecian|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangDraconic|0
 CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangDwarven|0
 CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangElvaan|0
 CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangGalkan|0
-CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangDraconic|0
-CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangSylvan|0
-CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangMithra|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangGarif|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangHypello|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangLambkin|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangLalafellan|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangLupin|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangMandragoran|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangMithran|0
 CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangMoogle|0
 CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangNumish|0
 CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangQueran|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangRoegadyn|0
 CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangRonsaur|0
 CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangSeeq|0
-CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangLalafell|0
-CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangVargen|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangTonberry|0
 CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangVieran|0
+# Beast Tribe
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangAntican|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangGoblin|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangKojin|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangLoporrit|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangMatanga|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangOrc|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangQiqirn|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangQuadav|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangSahagin|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangSylvan|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangVanu|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangYagudo|0
+# Elemental
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangAquan|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangAuran|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangAuroran|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangEnochian|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangIgnan|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangRunic|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangTerran|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangThorian|0
+CATEGORY=Internal|Default.MOD	DEFINE:RemoveLangUmbran|0
 
 CATEGORY=Internal|Default.MOD	DEFINE:MP|0
 
@@ -49,38 +82,60 @@ MP							CATEGORY:Special Ability	TYPE:SpecialQuality	ASPECT:NAME|MP %1|MP
 
 ###Block: Languages
 # Ability Name	Category of Ability	Type			Auto Language
-Aegyl			CATEGORY:Language		TYPE:Language	AUTO:LANG|Aegyl
-Aklo			CATEGORY:Language		TYPE:Language	AUTO:LANG|Aklo
-Auran			CATEGORY:Language		TYPE:Language	AUTO:LANG|Auran
-Bangese		CATEGORY:Language		TYPE:Language	AUTO:LANG|Bangese
-Burmecian		CATEGORY:Language		TYPE:Language	AUTO:LANG|Burmecian
-Celestial		CATEGORY:Language		TYPE:Language	AUTO:LANG|Celestial
+# Common
 Common		CATEGORY:Language		TYPE:Language	AUTO:LANG|Common
+#
+Aegyllan		CATEGORY:Language		TYPE:Language	AUTO:LANG|Aegyllan
+Albhedian		CATEGORY:Language		TYPE:Language	AUTO:LANG|Albhedian
+Aklo			CATEGORY:Language		TYPE:Language	AUTO:LANG|Aklo
+Banganese		CATEGORY:Language		TYPE:Language	AUTO:LANG|Banganese
+Burmecian		CATEGORY:Language		TYPE:Language	AUTO:LANG|Burmecian
 Draconic		CATEGORY:Language		TYPE:Language	AUTO:LANG|Draconic
 Dwarven		CATEGORY:Language		TYPE:Language	AUTO:LANG|Dwarven
 Elvaan		CATEGORY:Language		TYPE:Language	AUTO:LANG|Elvaan
 Galkan		CATEGORY:Language		TYPE:Language	AUTO:LANG|Galkan
-Giant			CATEGORY:Language		TYPE:Language	AUTO:LANG|Giant
-Gnoll			CATEGORY:Language		TYPE:Language	AUTO:LANG|Gnoll
-Goblin		CATEGORY:Language		TYPE:Language	AUTO:LANG|Goblin
-Ignan			CATEGORY:Language		TYPE:Language	AUTO:LANG|Ignan
-Lalafell		CATEGORY:Language		TYPE:Language	AUTO:LANG|Lalafell
-Mithra		CATEGORY:Language		TYPE:Language	AUTO:LANG|Mithra
+Garif			CATEGORY:Language		TYPE:Language	AUTO:LANG|Garif
+Hypello		CATEGORY:Language		TYPE:Language	AUTO:LANG|Hypello
+Lambkin		CATEGORY:Language		TYPE:Language	AUTO:LANG|Lambkin
+Lalafellan		CATEGORY:Language		TYPE:Language	AUTO:LANG|Lalafellan
+Lupin			CATEGORY:Language		TYPE:Language	AUTO:LANG|Lupin
+Mandragoran		CATEGORY:Language		TYPE:Language	AUTO:LANG|Mandragoran
 Mithran		CATEGORY:Language		TYPE:Language	AUTO:LANG|Mithran
 Moogle		CATEGORY:Language		TYPE:Language	AUTO:LANG|Moogle
 Numish		CATEGORY:Language		TYPE:Language	AUTO:LANG|Numish
-Orc			CATEGORY:Language		TYPE:Language	AUTO:LANG|Orc
 Queran		CATEGORY:Language		TYPE:Language	AUTO:LANG|Queran
+Roegadyn		CATEGORY:Language		TYPE:Language	AUTO:LANG|Roegadyn
 Ronsaur		CATEGORY:Language		TYPE:Language	AUTO:LANG|Ronsaur
 Seeq			CATEGORY:Language		TYPE:Language	AUTO:LANG|Seeq
-Sylvan		CATEGORY:Language		TYPE:Language	AUTO:LANG|Sylvan
-Terran		CATEGORY:Language		TYPE:Language	AUTO:LANG|Terran
-Undercommon		CATEGORY:Language		TYPE:Language	AUTO:LANG|Undercommon
-Vargen		CATEGORY:Language		TYPE:Language	AUTO:LANG|Vargen
+Tonberry		CATEGORY:Language		TYPE:Language	AUTO:LANG|Tonberry
 Vieran		CATEGORY:Language		TYPE:Language	AUTO:LANG|Vieran
-
-
-
+# Beast Tribe
+Antican		CATEGORY:Language		TYPE:Language	AUTO:LANG|Antican
+Goblin		CATEGORY:Language		TYPE:Language	AUTO:LANG|Goblin
+Kojin			CATEGORY:Language		TYPE:Language	AUTO:LANG|Kojin
+Loporrit		CATEGORY:Language		TYPE:Language	AUTO:LANG|Loporrit
+Matanga		CATEGORY:Language		TYPE:Language	AUTO:LANG|Matanga
+Orc			CATEGORY:Language		TYPE:Language	AUTO:LANG|Orc
+Qiqirn		CATEGORY:Language		TYPE:Language	AUTO:LANG|Qiqirn
+Quadav		CATEGORY:Language		TYPE:Language	AUTO:LANG|Quadav
+Sylvan		CATEGORY:Language		TYPE:Language	AUTO:LANG|Sylvan
+Vanu			CATEGORY:Language		TYPE:Language	AUTO:LANG|Vanu
+Terran		CATEGORY:Language		TYPE:Language	AUTO:LANG|Terran
+# Elemental
+Aquan			CATEGORY:Language		TYPE:Language	AUTO:LANG|Aquan
+Auran			CATEGORY:Language		TYPE:Language	AUTO:LANG|Auran
+Auroran		CATEGORY:Language		TYPE:Language	AUTO:LANG|Auroran
+Enochian		CATEGORY:Language		TYPE:Language	AUTO:LANG|Enochian
+Ignan			CATEGORY:Language		TYPE:Language	AUTO:LANG|Ignan
+Runic			CATEGORY:Language		TYPE:Language	AUTO:LANG|Runic
+Terran		CATEGORY:Language		TYPE:Language	AUTO:LANG|Terran
+Thorian		CATEGORY:Language		TYPE:Language	AUTO:LANG|Thorian
+Umbran		CATEGORY:Language		TYPE:Language	AUTO:LANG|Umbran
+# Extra
+Abyssal		CATEGORY:Language		TYPE:Language	AUTO:LANG|Abyssal
+Celestial		CATEGORY:Language		TYPE:Language	AUTO:LANG|Celestial
+Infernal		CATEGORY:Language		TYPE:Language	AUTO:LANG|Infernal
+Undercommon		CATEGORY:Language		TYPE:Language	AUTO:LANG|Undercommon
 
 
 

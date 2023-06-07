@@ -1,8 +1,8 @@
 
 
 
-Default Auto Languages ~ Aegyl		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Aegyl|PREVAREQ:RemoveLangAegyl,0
-Default Auto Languages ~ Bangaa		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Bangese|PREVAREQ:RemoveLangBangese,0
+Default Auto Languages ~ Aegyl		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Aegyl|PREVAREQ:RemoveLangAegyllan,0
+Default Auto Languages ~ Bangaa		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Bangese|PREVAREQ:RemoveLangBanganese,0
 Default Auto Languages ~ Burmecian		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Burmecian|PREVAREQ:RemoveLangBurmecian,0
 Default Auto Languages ~ Dwarf		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Dwarven|PREVAREQ:RemoveLangDwarven,0
 Default Auto Languages ~ Elvaan		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Elvaan|PREVAREQ:RemoveLangElvaan,0
@@ -10,14 +10,14 @@ Default Auto Languages ~ Galka		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:
 Default Auto Languages ~ Gria			CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Draconic|PREVAREQ:RemoveLangDraconic,0
 Default Auto Languages ~ Hume			CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0
 Default Auto Languages ~ Mandragora		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Sylvan|PREVAREQ:RemoveLangSylvan,0
-Default Auto Languages ~ Mithra		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Mithra|PREVAREQ:RemoveLangMithra,0
+Default Auto Languages ~ Mithra		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Mithra|PREVAREQ:RemoveLangMithran,0
 Default Auto Languages ~ Moogle		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Moogle|PREVAREQ:RemoveLangMoogle,0
 Default Auto Languages ~ Nu Mou		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Numish|PREVAREQ:RemoveLangNumish,0
 Default Auto Languages ~ Qu			CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Queran|PREVAREQ:RemoveLangQueran,0
 Default Auto Languages ~ Ronso		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Ronsaur|PREVAREQ:RemoveLangRonsaur,0
 Default Auto Languages ~ Seeq			CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Seeq|PREVAREQ:RemoveLangSeeq,0
-Default Auto Languages ~ Tarutaru		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Lalafell|PREVAREQ:RemoveLangLalafell,0
-Default Auto Languages ~ Varg			CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Vargen|PREVAREQ:RemoveLangVargen,0
+Default Auto Languages ~ Tarutaru		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Lalafell|PREVAREQ:RemoveLangLalafellan,0
+Default Auto Languages ~ Varg			CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Vargen|PREVAREQ:RemoveLangLupin,0
 Default Auto Languages ~ Viera		CATEGORY:Internal		TYPE:DefaultAutoLang	ABILITY:Language|AUTOMATIC|Common|PREVAREQ:RemoveLangCommon,0	ABILITY:Language|AUTOMATIC|Vieran|PREVAREQ:RemoveLangVieran,0
 
 
