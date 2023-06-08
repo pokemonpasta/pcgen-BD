@@ -190,6 +190,7 @@ CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD		DEFINE:TarutaruBaseSpeed|0
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD		DEFINE:TarutaruLanguages|0
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD		DEFINE:TarutaruDefensiveTraining|0
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD		DEFINE:TarutaruMagicResistant|0
+CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD		DEFINE:TarutaruStubborn|0
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD		DEFINE:TarutaruMagicExpert|0
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD		DEFINE:TarutaruTalented|0
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD		DEFINE:TarutaruMagicAptitude|0
@@ -410,6 +411,7 @@ CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD			BONUS:VAR|TarutaruBaseSpeed|1|P
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD			BONUS:VAR|TarutaruLanguages|1|PREFACT:1,Abilities,TarutaruLanguages=True
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD			BONUS:VAR|TarutaruDefensiveTraining|1|PREFACT:1,Abilities,TarutaruDefensiveTraining=True
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD			BONUS:VAR|TarutaruMagicResistant|1|PREFACT:1,Abilities,TarutaruMagicResistant=True
+CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD			BONUS:VAR|TarutaruStubborn|1|PREFACT:1,Abilities,TarutaruStubborn=True
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD			BONUS:VAR|TarutaruMagicExpert|1|PREFACT:1,Abilities,TarutaruMagicExpert=True
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD			BONUS:VAR|TarutaruTalented|1|PREFACT:1,Abilities,TarutaruTalented=True
 CATEGORY=Internal|Racial Traits ~ Tarutaru.MOD			BONUS:VAR|TarutaruMagicAptitude|1|PREFACT:1,Abilities,TarutaruMagicAptitude=True
