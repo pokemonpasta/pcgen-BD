@@ -477,7 +477,7 @@ Keepers of the Moon		CATEGORY:Internal	TYPE:MithraHeritage	BONUS:STAT|DEX,WIS|2|
 Liono					CATEGORY:Internal	TYPE:MithraHeritage	BONUS:STAT|STR,CHA|2|TYPE=Racial	BONUS:STAT|WIS|-2|TYPE=Racial		BONUS:SKILL|Diplomacy,Intimidate,Knowledge (Nobility)|2|TYPE=Racial		FACT:MithraAbilityScoreRacialTraits|True		FACT:MithraNaturalHunter|True
 Panthro				CATEGORY:Internal	TYPE:MithraHeritage	BONUS:STAT|STR,INT|2|TYPE=Racial	BONUS:STAT|CHA|-2|TYPE=Racial		BONUS:SKILL|Disable Device,Drive,Knowledge (Technology)|2|TYPE=Racial		FACT:MithraAbilityScoreRacialTraits|True		FACT:MithraNaturalHunter|True
 Pumyra				CATEGORY:Internal	TYPE:MithraHeritage	BONUS:STAT|DEX,WIS|2|TYPE=Racial	BONUS:STAT|COM|-2|TYPE=Racial		BONUS:SKILL|Craft (Alchemy),Heal,Sense Motive|2|TYPE=Racial				FACT:MithraAbilityScoreRacialTraits|True		FACT:MithraNaturalHunter|True
-Seekers of the Sun		CATEGORY:Internal	TYPE:MithraHeritage	BONUS:STAT|DEX,INT|2|TYPE=Racial	BONUS:STAT|CHA|-2|TYPE=Racial		BONUS:SKILL|Survival,Knowledge (Nature),Knowledge (Geography)|2|TYPE=Racial	FACT:MithraAbilityScoreRacialTraits|True		FACT:MithraNaturalHunter|True
+Seekers of the Sun		CATEGORY:Internal	TYPE:MithraHeritage	BONUS:STAT|DEX,CHA|2|TYPE=Racial	BONUS:STAT|INT|-2|TYPE=Racial		BONUS:SKILL|Perform (Dance),Acrobatics,Survival|2|TYPE=Racial			FACT:MithraAbilityScoreRacialTraits|True		FACT:MithraNaturalHunter|True
 Tygra					CATEGORY:Internal	TYPE:MithraHeritage	BONUS:STAT|DEX,INT|2|TYPE=Racial	BONUS:STAT|CON|-2|TYPE=Racial		BONUS:SKILL|Disable Device,Knowledge (Technology),Pilot|2|TYPE=Racial		FACT:MithraAbilityScoreRacialTraits|True		FACT:MithraNaturalHunter|True
 
 # =======
