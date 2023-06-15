@@ -1,5 +1,9 @@
 
 
+# ======
+# Races
+# ======
+
 CATEGORY=Internal|Racial Traits ~ Aegyl.MOD		DEFINE:AegylAbilityScoreRacialTraits|0
 CATEGORY=Internal|Racial Traits ~ Aegyl.MOD		DEFINE:AegylSize|0
 CATEGORY=Internal|Racial Traits ~ Aegyl.MOD		DEFINE:AegylType|0
@@ -439,3 +443,73 @@ CATEGORY=Internal|Racial Traits ~ Viera.MOD			BONUS:VAR|VieraHunter|1|PREFACT:1,
 CATEGORY=Internal|Racial Traits ~ Viera.MOD			BONUS:VAR|VieraMistSensitive|1|PREFACT:1,Abilities,VieraMistSensitive=True
 CATEGORY=Internal|Racial Traits ~ Viera.MOD			BONUS:VAR|VieraWeaponFamiliarity|1|PREFACT:1,Abilities,VieraWeaponFamiliarity=True
 CATEGORY=Internal|Racial Traits ~ Viera.MOD			BONUS:VAR|VieraLowLightVision|1|PREFACT:1,Abilities,VieraLowLightVision=True
+
+# =======
+# Classes
+# =======
+
+###Block: Archer
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_WeaponAndArmorProficiency|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_LimitBreaks|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_ShellPiercer|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_TrueshotArrow|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_ArcherTraining|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_ArcheryStyle|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_Aim|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_Hawkeye|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_ArcheryTalents|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_Evasion|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_AgileArcher|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_ExpertArcher|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_ImprovedArcheryStyle|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_CalledShot|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_FastMovement|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_UncannyDodge|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_QuickShot|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_HeavyPull|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_SafeShot|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_ArcheryStyleMastery|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_RangedCleave|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_ImprovedEvasion|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_TakeAim|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_EvasiveArcher|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_CriticalAim|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_RackingCritical|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_Volley|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_ImprovedUncannyDodge|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_RangedDefense|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_AimMastery|0
+CATEGORY=Class|Archer.MOD		DEFINE:Archer_CF_MasterArcher|0
+#
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_WeaponAndArmorProficiency|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_WeaponAndArmorProficiency=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_LimitBreaks|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_LimitBreaks=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_ShellPiercer|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_ShellPiercer=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_TrueshotArrow|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_TrueshotArrow=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_ArcherTraining|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_ArcherTraining=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_ArcheryStyle|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_ArcheryStyle=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_Aim|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_Aim=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_Hawkeye|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_Hawkeye=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_ArcheryTalents|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_ArcheryTalents=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_Evasion|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_Evasion=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_AgileArcher|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_AgileArcher=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_ExpertArcher|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_ExpertArcher=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_ImprovedArcheryStyle|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_ImprovedArcheryStyle=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_CalledShot|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_CalledShot=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_FastMovement|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_FastMovement=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_UncannyDodge|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_UncannyDodge=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_QuickShot|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_QuickShot=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_HeavyPull|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_HeavyPull=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_SafeShot|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_SafeShot=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_ArcheryStyleMastery|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_ArcheryStyleMastery=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_RangedCleave|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_RangedCleave=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_ImprovedEvasion|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_ImprovedEvasion=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_TakeAim|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_TakeAim=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_EvasiveArcher|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_EvasiveArcher=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_CriticalAim|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_CriticalAim=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_RackingCritical|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_RackingCritical=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_Volley|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_Volley=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_ImprovedUncannyDodge|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_ImprovedUncannyDodge=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_RangedDefense|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_RangedDefense=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_AimMastery|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_AimMastery=True
+CATEGORY=Class|Archer.MOD			BONUS:VAR|Archer_CF_MasterArcher|1|TYPE=Boolean|PREFACT:1,ABILITIES,Archer_CF_MasterArcher=True
+

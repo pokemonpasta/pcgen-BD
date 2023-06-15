@@ -2,13 +2,13 @@
 # Archer: A ranged specialist whose ability to defeat foes from afar is unmatched.
 CLASS:Archer	MAXLEVEL:20
 #CLASS:Archer	FACT:Abb|Acr	FACT:ClassType|
-CLASS:Archer	HD:8	TYPE:Base.PC	SOURCEPAGE:p.62	DEFINE:ArcherLVL|0	BONUS:VAR|ArcherLVL|CL
+CLASS:Archer	HD:8	TYPE:Base.PC	SOURCEWEB:https://www.finalfantasyd20.com/classes/core-classes/archer/	DEFINE:ArcherLVL|0	BONUS:VAR|ArcherLVL|CL
 CLASS:Archer	BONUS:COMBAT|BASEAB|classlevel("APPLIEDAS=NONEPIC")*3/4|TYPE=Base.REPLACE|PREVAREQ:UseAlternateBABProgression,0
 CLASS:Archer	BONUS:VAR|ClassBABModerate|classlevel("APPLIEDAS=NONEPIC")|PREVAREQ:UseFractionalBAB,1
 CLASS:Archer	BONUS:SAVE|BASE.Fortitude|classlevel("APPLIEDAS=NONEPIC")/3
 CLASS:Archer	BONUS:SAVE|BASE.Reflex|classlevel("APPLIEDAS=NONEPIC")/2+2
 CLASS:Archer	BONUS:SAVE|BASE.Will|classlevel("APPLIEDAS=NONEPIC")/3
-CLASS:Archer	STARTSKILLPTS:4	CSKILL:Acrobatics|Climb|TYPE=Craft|Heal|Knowledge (Geography)|Knowledge (Nature)|Perception|Ride|Stealth|Survival|Swim
+CLASS:Archer	STARTSKILLPTS:6	CSKILL:Acrobatics|Bluff|Climb|TYPE=Craft|Heal|Knowledge (Geography)|Knowledge (Nature)|Perception|TYPE=Profession|Ride|Sense Motive|Stealth|Survival|Swim
 ###Block 	
 1	ABILITY:Class|AUTOMATIC|Archer
 

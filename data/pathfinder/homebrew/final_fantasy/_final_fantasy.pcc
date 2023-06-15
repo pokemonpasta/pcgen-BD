@@ -27,6 +27,7 @@ ABILITY:ff_abilities.lst
 ABILITY:ff_abilities_var.lst
 # Temp
 ABILITY:ff_abilities_class.lst
+ABILITY:ff_abilities_class_talents.lst
 ABILITY:ff_abilities_race.lst
 
 
