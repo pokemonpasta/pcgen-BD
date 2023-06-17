@@ -228,6 +228,7 @@ FACTDEF:ABILITY|VieraLowLightVision				DATAFORMAT:BOOLEAN	VISIBLE:YES	SELECTABLE
 # =======
 
 ###Block - Archer
+# CF
 FACTDEF:ABILITY|Archer_CF_WeaponAndArmorProficiency		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Weapon and Armor Proficiency			EXPLANATION:Archer Weapon and Armor Proficiency removed
 FACTDEF:ABILITY|Archer_CF_LimitBreaks				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Limit Breaks					EXPLANATION:Archer Limit Breaks removed
 FACTDEF:ABILITY|Archer_CF_ShellPiercer				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Shell Piercer					EXPLANATION:Archer Shell Piercer removed
@@ -259,3 +260,35 @@ FACTDEF:ABILITY|Archer_CF_ImprovedUncannyDodge			DATAFORMAT:BOOLEAN	REQUIRED:NO	
 FACTDEF:ABILITY|Archer_CF_RangedDefense				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Ranged Defense					EXPLANATION:Archer Ranged Defense removed
 FACTDEF:ABILITY|Archer_CF_AimMastery				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Aim Mastery						EXPLANATION:Archer Aim Mastery removed
 FACTDEF:ABILITY|Archer_CF_MasterArcher				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Master Archer					EXPLANATION:Archer Master Archer removed
+# Archetype
+FACTDEF:ABILITY|Archer_Archetype_WeaponAndArmorProficiency		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Weapon and Armor Proficiency			EXPLANATION:Determines whether the archetype affects - Weapon and Armor Proficiency
+FACTDEF:ABILITY|Archer_Archetype_LimitBreaks				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Limit Breaks					EXPLANATION:Determines whether the archetype affects - Limit Breaks
+FACTDEF:ABILITY|Archer_Archetype_ShellPiercer				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Shell Piercer					EXPLANATION:Determines whether the archetype affects - Shell Piercer
+FACTDEF:ABILITY|Archer_Archetype_TrueshotArrow				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Trueshot Arrow					EXPLANATION:Determines whether the archetype affects - Trueshot Arrow
+FACTDEF:ABILITY|Archer_Archetype_ArcherTraining				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Archer Training					EXPLANATION:Determines whether the archetype affects - Archer Training
+FACTDEF:ABILITY|Archer_Archetype_ArcheryStyle				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Archery Style					EXPLANATION:Determines whether the archetype affects - Archery Style
+FACTDEF:ABILITY|Archer_Archetype_Aim					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Aim							EXPLANATION:Determines whether the archetype affects - Aim
+FACTDEF:ABILITY|Archer_Archetype_Hawkeye					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Hawkeye						EXPLANATION:Determines whether the archetype affects - Hawkeye
+FACTDEF:ABILITY|Archer_Archetype_ArcheryTalents				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Archery Talents					EXPLANATION:Determines whether the archetype affects - Archery Talents
+FACTDEF:ABILITY|Archer_Archetype_Evasion					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Evasion						EXPLANATION:Determines whether the archetype affects - Evasion
+FACTDEF:ABILITY|Archer_Archetype_AgileArcher				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Agile Archer					EXPLANATION:Determines whether the archetype affects - Agile Archer
+FACTDEF:ABILITY|Archer_Archetype_ExpertArcher				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Expert Archer					EXPLANATION:Determines whether the archetype affects - Expert Archer
+FACTDEF:ABILITY|Archer_Archetype_ImprovedArcheryStyle			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Improved Archery Style				EXPLANATION:Determines whether the archetype affects - Improved Archery Style
+FACTDEF:ABILITY|Archer_Archetype_CalledShot				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Called Shot						EXPLANATION:Determines whether the archetype affects - Called Shot
+FACTDEF:ABILITY|Archer_Archetype_FastMovement				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Fast Movement					EXPLANATION:Determines whether the archetype affects - Fast Movement
+FACTDEF:ABILITY|Archer_Archetype_UncannyDodge				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Uncanny Dodge					EXPLANATION:Determines whether the archetype affects - Uncanny Dodge
+FACTDEF:ABILITY|Archer_Archetype_QuickShot				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Quick Shot						EXPLANATION:Determines whether the archetype affects - Quick Shot
+FACTDEF:ABILITY|Archer_Archetype_HeavyPull				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Heavy Pull						EXPLANATION:Determines whether the archetype affects - Heavy Pull
+FACTDEF:ABILITY|Archer_Archetype_SafeShot					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Safe Shot						EXPLANATION:Determines whether the archetype affects - Safe Shot
+FACTDEF:ABILITY|Archer_Archetype_ArcheryStyleMastery			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:ArcheryStyle Mastery				EXPLANATION:Determines whether the archetype affects - Archery Style Mastery
+FACTDEF:ABILITY|Archer_Archetype_RangedCleave				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Ranged Cleave					EXPLANATION:Determines whether the archetype affects - Ranged Cleave
+FACTDEF:ABILITY|Archer_Archetype_ImprovedEvasion			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Improved Evasion					EXPLANATION:Determines whether the archetype affects - Improved Evasion
+FACTDEF:ABILITY|Archer_Archetype_TakeAim					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Take Aim						EXPLANATION:Determines whether the archetype affects - Take Aim
+FACTDEF:ABILITY|Archer_Archetype_EvasiveArcher				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Evasive Archer					EXPLANATION:Determines whether the archetype affects - Evasive Archer
+FACTDEF:ABILITY|Archer_Archetype_CriticalAim				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Critical Aim					EXPLANATION:Determines whether the archetype affects - Critical Aim
+FACTDEF:ABILITY|Archer_Archetype_RackingCritical			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Racking Critical					EXPLANATION:Determines whether the archetype affects - Racking Critical
+FACTDEF:ABILITY|Archer_Archetype_Volley					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Volley						EXPLANATION:Determines whether the archetype affects - Volley
+FACTDEF:ABILITY|Archer_Archetype_ImprovedUncannyDodge			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Improved Uncanny Dodge				EXPLANATION:Determines whether the archetype affects - Improved Uncanny Dodge
+FACTDEF:ABILITY|Archer_Archetype_RangedDefense				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Ranged Defense					EXPLANATION:Determines whether the archetype affects - Ranged Defense
+FACTDEF:ABILITY|Archer_Archetype_AimMastery				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Aim Mastery						EXPLANATION:Determines whether the archetype affects - Aim Mastery
+FACTDEF:ABILITY|Archer_Archetype_MasterArcher				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Master Archer					EXPLANATION:Determines whether the archetype affects - Master Archer
