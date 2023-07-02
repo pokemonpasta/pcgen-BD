@@ -38,7 +38,7 @@
 	Classes entered
 		Granted Progression
 			Archer
-			Red Mage
+			Bard
 		Left to do:
 			Remaining classes
 
@@ -59,13 +59,14 @@
 	Completed, all races accounted for.
 
 # Race File: 
-	Races complete
+	All core races complete except for Half-Breed
+	Non-Core races yet to update/enter
 
 # Skills File:
 	New Skills entered.
 
 # Spells File:
-	Spells entered. Review required.
+	Bard Songs
 
 
 # Core PF

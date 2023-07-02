@@ -15,19 +15,39 @@ CLASS:Archer	STARTSKILLPTS:6	CSKILL:Acrobatics|Bluff|Climb|TYPE=Craft|Heal|Knowl
 # Bard: A performer whose music works magic-a wanderer, a storyteller, and an inspirer.
 CLASS:Bard	MAXLEVEL:20
 #CLASS:Bard	FACT:Abb|	FACT:ClassType|
-CLASS:Bard	HD:6	TYPE:Base.PC	SOURCEPAGE:p.68	DEFINE:BardLVL|0	BONUS:VAR|BardLVL|CL
-CLASS:Bard	BONUS:COMBAT|BASEAB|classlevel("APPLIEDAS=NONEPIC")*1/2|TYPE=Base.REPLACE|PREVAREQ:UseAlternateBABProgression,0
-CLASS:Bard	BONUS:VAR|ClassBABPoor|classlevel("APPLIEDAS=NONEPIC")|PREVAREQ:UseFractionalBAB,1
+CLASS:Bard	HD:8	TYPE:Base.PC	SOURCEWEB:https://www.finalfantasyd20.com/classes/core-classes/bard/	DEFINE:BardLVL|0	BONUS:VAR|BardLVL|CL
+CLASS:Bard	BONUS:COMBAT|BASEAB|classlevel("APPLIEDAS=NONEPIC")*3/4|TYPE=Base.REPLACE|PREVAREQ:UseAlternateBABProgression,0
+CLASS:Bard	BONUS:VAR|ClassBABModerate|classlevel("APPLIEDAS=NONEPIC")|PREVAREQ:UseFractionalBAB,1
 CLASS:Bard	BONUS:SAVE|BASE.Fortitude|classlevel("APPLIEDAS=NONEPIC")/3
 CLASS:Bard	BONUS:SAVE|BASE.Reflex|classlevel("APPLIEDAS=NONEPIC")/2+2
 CLASS:Bard	BONUS:SAVE|BASE.Will|classlevel("APPLIEDAS=NONEPIC")/2+2
 CLASS:Bard	STARTSKILLPTS:6	CSKILL:Acrobatics|Appraise|Bluff|Climb|TYPE=Craft|Diplomacy|Disguise|Escape Artist|Intimidate|TYPE=Knowledge|Linguistics|Perception|TYPE=Perform|TYPE=Profession|Sense Motive|Sleight of Hand|Spellcraft|Stealth|Use Magic Device
 CLASS:Bard	FACT:SpellType|Song
-CLASS:Bard	SPELLSTAT:CHA	MEMORIZE:YES
+CLASS:Bard	SPELLSTAT:CHA	MEMORIZE:NO
 CLASS:Bard	BONUS:CASTERLEVEL|Bard|Caster_Level_BL_Stripped_Bard	DEFINE:Caster_Level_BL_Stripped_Bard|0	BONUS:VAR|Caster_Level_BL_Stripped_Bard|Caster_Level_Bard-CasterLevelBLBard	BONUS:VAR|Caster_Level_Bard|CL+Caster_Level_Bonus+CasterLevelBLBard	DEFINE:CasterLevelBLBard|0	BONUS:VAR|CasterLevelBL_x_Bard|charbonusto("PCLEVEL","Bard")	BONUS:VAR|Caster_Level_Highest__Arcane|Caster_Level_Bard|TYPE=Base
 ###Block 	
 1	ABILITY:Class|AUTOMATIC|Bard
-
+###Block 	
+1	CAST:1,1				KNOWN:2
+2	CAST:1,1				KNOWN:2
+3	CAST:1,1				KNOWN:2
+4	CAST:1,1,1				KNOWN:2
+5	CAST:1,1,1				KNOWN:3
+6	CAST:1,1,1				KNOWN:3
+7	CAST:1,1,1,1			KNOWN:3
+8	CAST:1,1,1,1			KNOWN:3
+9	CAST:1,1,1,1			KNOWN:4
+10	CAST:1,1,1,1,1			KNOWN:4
+11	CAST:1,1,1,1,1			KNOWN:4
+12	CAST:1,1,1,1,1			KNOWN:4
+13	CAST:1,1,1,1,1,1			KNOWN:5
+14	CAST:1,1,1,1,1,1			KNOWN:5
+15	CAST:1,1,1,1,1,1			KNOWN:5
+16	CAST:1,1,1,1,1,1,1		KNOWN:5
+17	CAST:1,1,1,1,1,1,1		KNOWN:6
+18	CAST:1,1,1,1,1,1,1		KNOWN:6
+19	CAST:1,1,1,1,1,1,1		KNOWN:6
+20	CAST:1,1,1,1,1,1,1		KNOWN:6
 
 # Beastmaster: A ferocious warrior who fights along with his animal companion.
 CLASS:Beastmaster	MAXLEVEL:20

@@ -17,13 +17,22 @@ Acrobatics.MOD			SITUATION:Threatened Squares
 #
 Appraise.MOD		SITUATION:Precious Metals or Gemstones
 #
+Bluff.MOD			SITUATION:Convince another of the truth of your words
+Bluff.MOD			SITUATION:Lie
+#
 Climb.MOD			SITUATION:Narrow Surfaces and Uneven Ground
 Climb.MOD			SITUATION:Slippery Conditions
 #
 Craft (Alchemy).MOD	SITUATION:Make Poison
 #
 Diplomacy.MOD		SITUATION:Business Transactions
+Diplomacy.MOD		SITUATION:Convince another of the truth of your words
 Diplomacy.MOD		SITUATION:Gather Information
+Diplomacy.MOD		SITUATION:Influence Creatures
+Diplomacy.MOD		SITUATION:Influence another creature's attitude
+#
+Intimidate.MOD		SITUATION:Influence another creature's attitude
+Intimidate.MOD		SITUATION:Through Duplicate
 #
 Perception.MOD		SITUATION:Against Flying Creatures
 Perception.MOD		SITUATION:Notice Sleight of Hand

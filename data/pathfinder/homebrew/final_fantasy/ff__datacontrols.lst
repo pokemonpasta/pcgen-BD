@@ -292,3 +292,49 @@ FACTDEF:ABILITY|Archer_Archetype_ImprovedUncannyDodge			DATAFORMAT:BOOLEAN	REQUI
 FACTDEF:ABILITY|Archer_Archetype_RangedDefense				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Ranged Defense					EXPLANATION:Determines whether the archetype affects - Ranged Defense
 FACTDEF:ABILITY|Archer_Archetype_AimMastery				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Aim Mastery						EXPLANATION:Determines whether the archetype affects - Aim Mastery
 FACTDEF:ABILITY|Archer_Archetype_MasterArcher				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Master Archer					EXPLANATION:Determines whether the archetype affects - Master Archer
+
+###Block: Bard
+# CF
+FACTDEF:ABILITY|Bard_CF_WeaponandArmorProficiency			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Weapon and Armor Proficiency			EXPLANATION:Weapon and Armor Proficiency removed
+FACTDEF:ABILITY|Bard_CF_LimitBreaks						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Limit Breaks					EXPLANATION:Limit Breaks removed
+FACTDEF:ABILITY|Bard_CF_SirensSong						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Siren's Song					EXPLANATION:Siren's Song removed
+FACTDEF:ABILITY|Bard_CF_SoulVoice						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Soul Voice						EXPLANATION:Soul Voice removed
+FACTDEF:ABILITY|Bard_CF_Songs							DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Songs							EXPLANATION:Songs removed
+FACTDEF:ABILITY|Bard_CF_Jingles						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Jingles						EXPLANATION:Jingles removed
+FACTDEF:ABILITY|Bard_CF_MusicalPower					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Musical Power					EXPLANATION:Musical Power removed
+FACTDEF:ABILITY|Bard_CF_BardicPerformance					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Bardic Performance				EXPLANATION:Bardic Performance removed
+FACTDEF:ABILITY|Bard_CF_WellVersed						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Well-Versed						EXPLANATION:Well-Versed removed
+FACTDEF:ABILITY|Bard_CF_VersatilePerformance				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Versatile Performance				EXPLANATION:Versatile Performance removed
+FACTDEF:ABILITY|Bard_CF_SongTalents						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Song Talents					EXPLANATION:Song Talents removed
+FACTDEF:ABILITY|Bard_CF_Inspiration						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Inspiration						EXPLANATION:Inspiration removed
+FACTDEF:ABILITY|Bard_CF_Medley						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Medley						EXPLANATION:Medley removed
+FACTDEF:ABILITY|Bard_CF_WideAudience					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Wide Audience					EXPLANATION:Wide Audience removed
+FACTDEF:ABILITY|Bard_CF_ClearMind						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Clear Mind						EXPLANATION:Clear Mind removed
+FACTDEF:ABILITY|Bard_CF_SkilledPerformer					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Skilled Performer					EXPLANATION:Skilled Performer removed
+FACTDEF:ABILITY|Bard_CF_AdvancedSongTalents				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Advanced Song Talents				EXPLANATION:Advanced Song Talents removed
+FACTDEF:ABILITY|Bard_CF_CantStopMyPerformance				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Can't Stop My Performance			EXPLANATION:Can't Stop My Performance removed
+FACTDEF:ABILITY|Bard_CF_UnstoppablePerformance				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Unstoppable Performance				EXPLANATION:Unstoppable Performance removed
+FACTDEF:ABILITY|Bard_CF_1MPSong						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:1 MP Song						EXPLANATION:1 MP Song removed
+FACTDEF:ABILITY|Bard_CF_MasterBard						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Master Bard						EXPLANATION:Master Bard removed
+# Archetype
+FACTDEF:ABILITY|Bard_Archetype_WeaponandArmorProficiency		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Weapon and Armor Proficiency			EXPLANATION:Determines whether the archetype affects - Weapon and Armor Proficiency
+FACTDEF:ABILITY|Bard_Archetype_LimitBreaks				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Limit Breaks					EXPLANATION:Determines whether the archetype affects - Limit Breaks
+FACTDEF:ABILITY|Bard_Archetype_SirensSong					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Siren's Song					EXPLANATION:Determines whether the archetype affects - Siren's Song
+FACTDEF:ABILITY|Bard_Archetype_SoulVoice					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Soul Voice						EXPLANATION:Determines whether the archetype affects - Soul Voice
+FACTDEF:ABILITY|Bard_Archetype_Songs					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Songs							EXPLANATION:Determines whether the archetype affects - Songs
+FACTDEF:ABILITY|Bard_Archetype_Jingles					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Jingles						EXPLANATION:Determines whether the archetype affects - Jingles
+FACTDEF:ABILITY|Bard_Archetype_MusicalPower				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Musical Power					EXPLANATION:Determines whether the archetype affects - Musical Power
+FACTDEF:ABILITY|Bard_Archetype_BardicPerformance			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Bardic Performance				EXPLANATION:Determines whether the archetype affects - Bardic Performance
+FACTDEF:ABILITY|Bard_Archetype_WellVersed					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Well-Versed						EXPLANATION:Determines whether the archetype affects - Well-Versed
+FACTDEF:ABILITY|Bard_Archetype_VersatilePerformance			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Versatile Performance				EXPLANATION:Determines whether the archetype affects - Versatile Performance
+FACTDEF:ABILITY|Bard_Archetype_SongTalents				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Song Talents					EXPLANATION:Determines whether the archetype affects - Song Talents
+FACTDEF:ABILITY|Bard_Archetype_Inspiration				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Inspiration						EXPLANATION:Determines whether the archetype affects - Inspiration
+FACTDEF:ABILITY|Bard_Archetype_Medley					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Medley						EXPLANATION:Determines whether the archetype affects - Medley
+FACTDEF:ABILITY|Bard_Archetype_WideAudience				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Wide Audience					EXPLANATION:Determines whether the archetype affects - Wide Audience
+FACTDEF:ABILITY|Bard_Archetype_ClearMind					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Clear Mind						EXPLANATION:Determines whether the archetype affects - Clear Mind
+FACTDEF:ABILITY|Bard_Archetype_SkilledPerformer				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Skilled Performer					EXPLANATION:Determines whether the archetype affects - Skilled Performer
+FACTDEF:ABILITY|Bard_Archetype_AdvancedSongTalents			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Advanced Song Talents				EXPLANATION:Determines whether the archetype affects - Advanced Song Talents
+FACTDEF:ABILITY|Bard_Archetype_CantStopMyPerformance			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Can't Stop My Performance			EXPLANATION:Determines whether the archetype affects - Can't Stop My Performance
+FACTDEF:ABILITY|Bard_Archetype_UnstoppablePerformance			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Unstoppable Performance				EXPLANATION:Determines whether the archetype affects - Unstoppable Performanc	
+FACTDEF:ABILITY|Bard_Archetype_1MPSong					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:1 MP Song						EXPLANATION:Determines whether the archetype affects - 1 MP Song
+FACTDEF:ABILITY|Bard_Archetype_MasterBard					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Master Bard						EXPLANATION:Determines whether the archetype affects - Master Bard
