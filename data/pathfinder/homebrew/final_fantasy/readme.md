@@ -39,6 +39,7 @@
 		Granted Progression
 			Archer
 			Bard
+			Beastmaster
 		Left to do:
 			Remaining classes
 

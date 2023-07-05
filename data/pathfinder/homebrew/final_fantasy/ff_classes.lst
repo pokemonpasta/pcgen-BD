@@ -52,12 +52,12 @@ CLASS:Bard	BONUS:CASTERLEVEL|Bard|Caster_Level_BL_Stripped_Bard	DEFINE:Caster_Le
 # Beastmaster: A ferocious warrior who fights along with his animal companion.
 CLASS:Beastmaster	MAXLEVEL:20
 #CLASS:Beastmaster	FACT:Abb|	FACT:ClassType|
-CLASS:Beastmaster	HD:10	TYPE:Base.PC	SOURCEPAGE:p.76	DEFINE:BeastmasterLVL|0	BONUS:VAR|BeastmasterLVL|CL
+CLASS:Beastmaster	HD:10	TYPE:Base.PC	SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/beastmaster/	DEFINE:BeastmasterLVL|0	BONUS:VAR|BeastmasterLVL|CL
 CLASS:Beastmaster	BONUS:COMBAT|BASEAB|classlevel("APPLIEDAS=NONEPIC")|TYPE=Base.REPLACE
 CLASS:Beastmaster	BONUS:SAVE|BASE.Fortitude|classlevel("APPLIEDAS=NONEPIC")/2+2
 CLASS:Beastmaster	BONUS:SAVE|BASE.Reflex|classlevel("APPLIEDAS=NONEPIC")/2+2
 CLASS:Beastmaster	BONUS:SAVE|BASE.Will|classlevel("APPLIEDAS=NONEPIC")/3
-CLASS:Beastmaster	STARTSKILLPTS:4	CSKILL:Acrobatics|Climb|TYPE=Craft|Handle Animal|Heal|Intimidate|Knowledge (Nature)|Perception|Ride|Stealth|Survival|Swim
+CLASS:Beastmaster	STARTSKILLPTS:4	CSKILL:Acrobatics|Climb|TYPE=Craft|Handle Animal|Heal|Intimidate|Knowledge (Nature)|Perception|TYPE=Profession|Ride|Stealth|Survival|Swim
 ###Block 	
 1	ABILITY:Class|AUTOMATIC|Beastmaster
 

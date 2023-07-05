@@ -748,12 +748,13 @@ Fighter	KEY:Favored Class Bonus ~ Burmecian ~ Fighter			CATEGORY:Special Ability
 Monk		KEY:Favored Class Bonus ~ Burmecian ~ Monk			CATEGORY:Special Ability	PRECLASS:1,Monk=1			PRERACE:1,Burmecian		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality				DESC:Add +1 feet to the speed the monk can move while making a Stealth check without taking a penalty. This has no effect unless the monk has selected this reward five times (or another increment of five). This does not allow the monk to use Stealth while running or charging.
 Thief		KEY:Favored Class Bonus ~ Burmecian ~ Thief			CATEGORY:Special Ability	PRECLASS:1,Thief=1			PRERACE:1,Burmecian		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality				DESC:Add a +1/2 bonus on Escape Artist checks.
 
-###Block: Dwarf Only
+###Block: Dwarf
 # Archer
 Bonus Range Increment		KEY:Favored Class Bonus ~ Dwarf ~ Archer			CATEGORY:Special Ability	PRECLASS:1,Archer=1			PRERACE:1,Dwarf		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality		DEFINE:DwarfArcherFavClassBonus|0			DESC:Add +1 foot to the range increment with bows or crossbows. This option has no effect unless the archer has selected it 5 times (or another increment of 5).																							BONUS:VAR|DwarfArcherFavClassBonus|1			BONUS:RANGEADD|PROJECTILE|floor(DwarfArcherFavClassBonus/5)*5|PREEQUIPPRIMARY:1,TYPE=Archery
 # Bard
 Reduced Spell Failure		KEY:Favored Class Bonus ~ Dwarf ~ Bard			CATEGORY:Special Ability	PRECLASS:1,Bard=1				PRERACE:1,Dwarf		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality		DEFINE:DwarfBardFavClassBonus|0			DESC:Reduce spell failure chance for performing bard songs when wearing medium armor by +1%%. Once the total reaches 10%%, the bard also receives Medium Armor Proficiency, if he does not already possess it.															BONUS:VAR|DwarfBardFavClassBonus|1				BONUS:MISC|SPELLFAILURE|-DwarfBardFavClassBonus		ABILITY:FEAT|AUTOMATIC|Medium Armor Proficiency|PREVARGTEQ:DwarfBardFavClassBonus,10
-Beastmaster		KEY:Favored Class Bonus ~ Dwarf ~ Beastmaster		CATEGORY:Special Ability	PRECLASS:1,Beastmaster=1		PRERACE:1,Dwarf		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality										DESC:Add +1 to the beastmaster's total number of rage rounds per day.
+# Beastmaster
+Bonus Animal Companion CMD	KEY:Favored Class Bonus ~ Dwarf ~ Beastmaster		CATEGORY:Special Ability	PRECLASS:1,Beastmaster=1		PRERACE:1,Dwarf		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality										DESC:Add +1 to the beastmaster's total number of rage rounds per day.
 Black Belt		KEY:Favored Class Bonus ~ Dwarf ~ Black Belt		CATEGORY:Special Ability	PRECLASS:1,Black Belt=1			PRERACE:1,Dwarf		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality										DESC:Reduce the hardness of any object made from clay, stone, or metal by 1 whenever the object is struck by the black belt's unarmed strike (minimum 0).
 Black Mage		KEY:Favored Class Bonus ~ Dwarf ~ Black Mage		CATEGORY:Special Ability	PRECLASS:1,Black Mage=1			PRERACE:1,Dwarf		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality										DESC:Select one item creation feat known by the black mage. Whenever he crafts an item using that feat, the amount of progress he makes in an 8-hour period increases by 200 gil (50 gil if crafting while adventuring). This does not reduce the cost of the item; it just increases the rate at which the item is crafted.
 Blue Mage		KEY:Favored Class Bonus ~ Dwarf ~ Blue Mage		CATEGORY:Special Ability	PRECLASS:1,Blue Mage=1			PRERACE:1,Dwarf		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality										DESC:Add +1/4 bonus to damage to the blue mage's natural attacks.
@@ -777,7 +778,7 @@ Thief			KEY:Favored Class Bonus ~ Dwarf ~ Thief			CATEGORY:Special Ability	PRECL
 Time Mage		KEY:Favored Class Bonus ~ Dwarf ~ Time Mage		CATEGORY:Special Ability	PRECLASS:1,Time Mage=1			PRERACE:1,Dwarf		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality										DESC:Add 1/6 of an additional d4 added to armor class when you spend a mote to boost your AC. (+1d4 for every six times you select this option.)
 White Mage		KEY:Favored Class Bonus ~ Dwarf ~ White Mage		CATEGORY:Special Ability	PRECLASS:1,White Mage=1			PRERACE:1,Dwarf		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality										DESC:Add a +1/2 bonus on Knowledge (planes) checks relating to the plane of earth and creatures with the earth subtype.
 
-###Block: Elvaan Only
+###Block: Elvaan
 # Archer
 Bonus Aim Bonus	KEY:Favored Class Bonus ~ Elvaan ~ Archer				CATEGORY:Special Ability	PRECLASS:1,Archer=1			PRERACE:1,Elvaan		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality									DESC:Add +1/3 bonus to the archer’s Aim bonus for attack rolls.
 # Bard
@@ -909,7 +910,7 @@ Thief			KEY:Favored Class Bonus ~ Mithra ~ Thief				CATEGORY:Special Ability	PRE
 Time Mage		KEY:Favored Class Bonus ~ Mithra ~ Time Mage			CATEGORY:Special Ability	PRECLASS:1,Time Mage=1			PRERACE:1,Mithra		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality									DESC:Add 1/6 of an additional d4 to one attack roll when you spend a mote to boost your attack roll. ~ +1d4 for every six times you select this option.
 White Mage		KEY:Favored Class Bonus ~ Mithra ~ White Mage			CATEGORY:Special Ability	PRECLASS:1,White Mage=1			PRERACE:1,Mithra		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality									DESC:Add +1 to holy burst damage dealt to creatures denied their dexterity bonus to AC ~ whether or not the creature has a dexterity bonus to AC.
 
-###Block: Moogle Only
+###Block: Moogle
 # Archer
 Bonus Range Increment	KEY:Favored Class Bonus ~ Moogle ~ Archer				CATEGORY:Special Ability	PRECLASS:1,Archer=1			PRERACE:1,Moogle		MULT:YES	CHOOSE:NOCHOICE	STACK:YES	TYPE:FavoredClassBonus.SpecialQuality			DEFINE:MoogleArcherFavClassBonus|0		DESC:Add +1 foot to the range increment with bows or crossbows. This option has no effect unless the archer has selected it 5 times (or another increment of 5).																															BONUS:VAR|MoogleArcherFavClassBonus|1			BONUS:RANGEADD|PROJECTILE|floor(MoogleArcherFavClassBonus/5)*5|PREEQUIPPRIMARY:1,TYPE=Archery
 # Bard

@@ -338,3 +338,75 @@ FACTDEF:ABILITY|Bard_Archetype_CantStopMyPerformance			DATAFORMAT:BOOLEAN	REQUIR
 FACTDEF:ABILITY|Bard_Archetype_UnstoppablePerformance			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Unstoppable Performance				EXPLANATION:Determines whether the archetype affects - Unstoppable Performanc	
 FACTDEF:ABILITY|Bard_Archetype_1MPSong					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:1 MP Song						EXPLANATION:Determines whether the archetype affects - 1 MP Song
 FACTDEF:ABILITY|Bard_Archetype_MasterBard					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Master Bard						EXPLANATION:Determines whether the archetype affects - Master Bard
+
+###Block: Beastmaster
+# CF
+FACTDEF:ABILITY|Beastmaster_CF_WeaponAndArmorProficiency		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Weapon and Armor Proficiency			EXPLANATION:Weapon and Armor Proficiency removed
+FACTDEF:ABILITY|Beastmaster_CF_LimitBreaks				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Limit Breaks					EXPLANATION:Limit Breaks removed
+FACTDEF:ABILITY|Beastmaster_CF_BestialDefense				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Bestial Defense					EXPLANATION:Bestial Defense removed
+FACTDEF:ABILITY|Beastmaster_CF_BestialFury				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Bestial Fury					EXPLANATION:Bestial Fury removed
+FACTDEF:ABILITY|Beastmaster_CF_AnimalCompanion				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Animal Companion					EXPLANATION:Animal Companion removed
+FACTDEF:ABILITY|Beastmaster_CF_WildEmpathy				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Wild Empathy					EXPLANATION:Wild Empathy removed
+FACTDEF:ABILITY|Beastmaster_CF_AnimalFocus				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Animal Focus					EXPLANATION:Animal Focus removed
+FACTDEF:ABILITY|Beastmaster_CF_NatureSense				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Nature Sense					EXPLANATION:Nature Sense removed
+FACTDEF:ABILITY|Beastmaster_CF_FlankingCompanion			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Flanking Companion				EXPLANATION:Flanking Companion removed
+FACTDEF:ABILITY|Beastmaster_CF_EmpathicLink				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Empathic Link					EXPLANATION:Empathic Link removed
+FACTDEF:ABILITY|Beastmaster_CF_BeastmasterTricks			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Beastmaster Tricks				EXPLANATION:Beastmaster Tricks removed
+FACTDEF:ABILITY|Beastmaster_CF_BeastmasterTactics			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Beastmaster Tactics				EXPLANATION:Beastmaster Tactics removed
+FACTDEF:ABILITY|Beastmaster_CF_TeamworkFeat				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Teamwork Feat					EXPLANATION:Teamwork Feat removed
+FACTDEF:ABILITY|Beastmaster_CF_Alertness					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Alertness						EXPLANATION:Alertness removed
+FACTDEF:ABILITY|Beastmaster_CF_Track					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Track							EXPLANATION:Track removed
+FACTDEF:ABILITY|Beastmaster_CF_WoodlandStride				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Woodland Stride					EXPLANATION:Woodland Stride removed
+FACTDEF:ABILITY|Beastmaster_CF_NaturalSavagery				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Natural Savagery					EXPLANATION:Natural Savagery removed
+FACTDEF:ABILITY|Beastmaster_CF_SpeakWithAnimals				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Speak with Animals				EXPLANATION:Speak with Animals removed
+FACTDEF:ABILITY|Beastmaster_CF_TracklessStep				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Trackless Step					EXPLANATION:Trackless Step removed
+FACTDEF:ABILITY|Beastmaster_CF_SecondAnimalFocus			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Second Animal Focus				EXPLANATION:Second Animal Focus removed
+FACTDEF:ABILITY|Beastmaster_CF_BonusTrick					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Bonus Trick						EXPLANATION:Bonus Trick removed
+FACTDEF:ABILITY|Beastmaster_CF_Scent					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Scent							EXPLANATION:Scent removed
+FACTDEF:ABILITY|Beastmaster_CF_Quarry					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Quarry						EXPLANATION:Quarry removed
+FACTDEF:ABILITY|Beastmaster_CF_ImprovedEmpathicLink			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Improved Empathic Link				EXPLANATION:Improved Empathic Link removed
+FACTDEF:ABILITY|Beastmaster_CF_BeastShape					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Beast Shape						EXPLANATION:Beast Shape removed
+FACTDEF:ABILITY|Beastmaster_CF_RaiseAnimalCompanion			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Raise Animal Companion				EXPLANATION:Raise Animal Companion removed
+FACTDEF:ABILITY|Beastmaster_CF_SwiftTracker				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Swift Tracker					EXPLANATION:Swift Tracker removed
+FACTDEF:ABILITY|Beastmaster_CF_ThirdAnimalFocus				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Third Animal Focus				EXPLANATION:Third Animal Focus removed
+FACTDEF:ABILITY|Beastmaster_CF_GreaterEmpathicLink			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Greater Empathic Link				EXPLANATION:Greater Empathic Link removed
+FACTDEF:ABILITY|Beastmaster_CF_ImprovedQuarry				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Improved Quarry					EXPLANATION:Improved Quarry removed
+FACTDEF:ABILITY|Beastmaster_CF_OneWithTheWild				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:One with the Wild					EXPLANATION:One with the Wild removed
+FACTDEF:ABILITY|Beastmaster_CF_MasterOfThePack				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Master of the Pack				EXPLANATION:Master of the Pack removed
+FACTDEF:ABILITY|Beastmaster_CF_BeastOfLegend				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Beast of Legend					EXPLANATION:Beast of Legend removed
+FACTDEF:ABILITY|Beastmaster_CF_MasteryOfBeasts				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Mastery of Beasts					EXPLANATION:Mastery of Beasts removed
+# Archetype
+FACTDEF:ABILITY|Beastmaster_Archetype_WeaponAndArmorProficiency	DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Weapon and Armor Proficiency			EXPLANATION:Determines whether the archetype affects - Weapon and Armor Proficiency
+FACTDEF:ABILITY|Beastmaster_Archetype_LimitBreaks			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Limit Breaks					EXPLANATION:Determines whether the archetype affects - Limit Breaks
+FACTDEF:ABILITY|Beastmaster_Archetype_BestialDefense			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Bestial Defense					EXPLANATION:Determines whether the archetype affects - Bestial Defense
+FACTDEF:ABILITY|Beastmaster_Archetype_BestialFury			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Bestial Fury					EXPLANATION:Determines whether the archetype affects - Bestial Fury
+FACTDEF:ABILITY|Beastmaster_Archetype_AnimalCompanion			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Animal Companion					EXPLANATION:Determines whether the archetype affects - Animal Companion
+FACTDEF:ABILITY|Beastmaster_Archetype_WildEmpathy			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Wild Empathy					EXPLANATION:Determines whether the archetype affects - Wild Empathy
+FACTDEF:ABILITY|Beastmaster_Archetype_AnimalFocus			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Animal Focus					EXPLANATION:Determines whether the archetype affects - Animal Focus
+FACTDEF:ABILITY|Beastmaster_Archetype_NatureSense			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Nature Sense					EXPLANATION:Determines whether the archetype affects - Nature Sense
+FACTDEF:ABILITY|Beastmaster_Archetype_FlankingCompanion		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Flanking Companion				EXPLANATION:Determines whether the archetype affects - Flanking Companion
+FACTDEF:ABILITY|Beastmaster_Archetype_EmpathicLink			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Empathic Link					EXPLANATION:Determines whether the archetype affects - Empathic Link
+FACTDEF:ABILITY|Beastmaster_Archetype_BeastmasterTricks		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Beastmaster Tricks				EXPLANATION:Determines whether the archetype affects - Beastmaster Tricks
+FACTDEF:ABILITY|Beastmaster_Archetype_BeastmasterTactics		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Beastmaster Tactics				EXPLANATION:Determines whether the archetype affects - Beastmaster Tactics
+FACTDEF:ABILITY|Beastmaster_Archetype_TeamworkFeat			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Teamwork Feat					EXPLANATION:Determines whether the archetype affects - Teamwork Feat
+FACTDEF:ABILITY|Beastmaster_Archetype_Alertness				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Alertness						EXPLANATION:Determines whether the archetype affects - Alertness
+FACTDEF:ABILITY|Beastmaster_Archetype_Track				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Track							EXPLANATION:Determines whether the archetype affects - Track
+FACTDEF:ABILITY|Beastmaster_Archetype_WoodlandStride			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Woodland Stride					EXPLANATION:Determines whether the archetype affects - Woodland Stride
+FACTDEF:ABILITY|Beastmaster_Archetype_NaturalSavagery			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Natural Savagery					EXPLANATION:Determines whether the archetype affects - Natural Savagery
+FACTDEF:ABILITY|Beastmaster_Archetype_SpeakWithAnimals		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Speak with Animals				EXPLANATION:Determines whether the archetype affects - Speak with Animals
+FACTDEF:ABILITY|Beastmaster_Archetype_TracklessStep			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Trackless Step					EXPLANATION:Determines whether the archetype affects - Trackless Step
+FACTDEF:ABILITY|Beastmaster_Archetype_SecondAnimalFocus		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Second Animal Focus				EXPLANATION:Determines whether the archetype affects - Second Animal Focus
+FACTDEF:ABILITY|Beastmaster_Archetype_BonusTrick			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Bonus Trick						EXPLANATION:Determines whether the archetype affects - Bonus Trick
+FACTDEF:ABILITY|Beastmaster_Archetype_Scent				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Scent							EXPLANATION:Determines whether the archetype affects - Scent
+FACTDEF:ABILITY|Beastmaster_Archetype_Quarry				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Quarry						EXPLANATION:Determines whether the archetype affects - Quarry
+FACTDEF:ABILITY|Beastmaster_Archetype_ImprovedEmpathicLink		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Improved Empathic Link				EXPLANATION:Determines whether the archetype affects - Improved Empathic Link
+FACTDEF:ABILITY|Beastmaster_Archetype_BeastShape			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Beast Shape						EXPLANATION:Determines whether the archetype affects - Beast Shape
+FACTDEF:ABILITY|Beastmaster_Archetype_RaiseAnimalCompanion		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Raise Animal Companion				EXPLANATION:Determines whether the archetype affects - Raise Animal Companion
+FACTDEF:ABILITY|Beastmaster_Archetype_SwiftTracker			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Swift Tracker					EXPLANATION:Determines whether the archetype affects - Swift Tracker
+FACTDEF:ABILITY|Beastmaster_Archetype_ThirdAnimalFocus		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Third Animal Focus				EXPLANATION:Determines whether the archetype affects - Third Animal Focus
+FACTDEF:ABILITY|Beastmaster_Archetype_GreaterEmpathicLink		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Greater Empathic Link				EXPLANATION:Determines whether the archetype affects - Greater Empathic Link
+FACTDEF:ABILITY|Beastmaster_Archetype_ImprovedQuarry			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Improved Quarry					EXPLANATION:Determines whether the archetype affects - Improved Quarry
+FACTDEF:ABILITY|Beastmaster_Archetype_OneWithTheWild			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:One with the Wild					EXPLANATION:Determines whether the archetype affects - One with the Wild
+FACTDEF:ABILITY|Beastmaster_Archetype_MasterOfThePack			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Master of the Pack				EXPLANATION:Determines whether the archetype affects - Master of the Pack
+FACTDEF:ABILITY|Beastmaster_Archetype_BeastOfLegend			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Beast of Legend					EXPLANATION:Determines whether the archetype affects - Beast of Legend
+FACTDEF:ABILITY|Beastmaster_Archetype_MasteryOfBeasts			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Mastery of Beasts					EXPLANATION:Determines whether the archetype affects - Mastery of Beasts

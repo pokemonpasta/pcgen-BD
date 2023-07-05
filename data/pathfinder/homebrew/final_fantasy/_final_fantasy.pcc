@@ -28,6 +28,7 @@ ABILITY:ff_abilities_var.lst
 # Temp
 ABILITY:ff_abilities_class.lst
 ABILITY:ff_abilities_class_talents.lst
+ABILITY:ff_abilities_companion.lst
 ABILITY:ff_abilities_race.lst
 
 
@@ -35,7 +36,7 @@ ABILITYCATEGORY:ff_abilitycategories.lst
 #BIOSET:ff_biosettings.lst
 CLASS:ff_classes.lst
 
-#COMPANIONMOD:ff_companionmods.lst
+COMPANIONMOD:ff_companionmods.lst
 #DEITY:ff_deities.lst
 #DOMAIN:ff_domains.lst
 

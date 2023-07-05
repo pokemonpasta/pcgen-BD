@@ -6,3 +6,19 @@ FOLLOWER:AnimalCompanionLVL=1	TYPE:Animal Companion	BONUS:ABILITYPOOL|Companion 
 FOLLOWER:FamiliarLVL=1		TYPE:Familiar		BONUS:ABILITYPOOL|Companion Ability Bonus|1|PREVARGTEQ:mastervar("Companion_MasterRacialTrait_AbilityBonus"),1
 FOLLOWER:SpecialMountLVL=1	TYPE:Special Mount	BONUS:ABILITYPOOL|Companion Ability Bonus|1|PREVARGTEQ:mastervar("Companion_MasterRacialTrait_AbilityBonus"),1
 FOLLOWER:CavalierMountLVL=1	TYPE:Cavalier Mount	BONUS:ABILITYPOOL|Companion Ability Bonus|1|PREVARGTEQ:mastervar("Companion_MasterRacialTrait_AbilityBonus"),1
+
+###Block: Beastmaster Support
+# Limit Breaks
+FOLLOWER:BestialDefenseTempBonus=1				TYPE:Animal Companion			DR:0/-	BONUS:COMBAT|AC|2*mastervar("BeastmasterLimitBreakScaling")|TYPE=Dodge			BONUS:DR|-|2*mastervar("BeastmasterLimitBreakScaling")|PREVAREQ:mastervar("BestialDefenseTempBonus"),1
+FOLLOWER:BestialFuryTempBonus=1				TYPE:Animal Companion			BONUS:STAT|STR,CON|2*mastervar("BeastmasterLimitBreakScaling")|TYPE=Circumstance
+# Talents
+FOLLOWER:BeastmasterTrickBestialSwiftness=1		TYPE:Animal Companion			BONUS:MOVEADD|TYPE.All|10
+FOLLOWER:BeastmasterTrickBestialWrath=1			TYPE:Animal Companion			ABILITY:Internal|AUTOMATIC|Beastmaster Trick Companion Ability ~ Bestial Wrath
+FOLLOWER:BeastmasterTrickBolsterCompanion=1		TYPE:Animal Companion			ABILITY:Internal|AUTOMATIC|Beastmaster Trick Companion Ability ~ Bolster Companion
+FOLLOWER:BeastmasterTrickThickHide=1			TYPE:Animal Companion			BONUS:VAR|AC_Natural_Armor|1
+# Animal Focus
+FOLLOWER:BeastmasterAnimalFocusCompanionTempBonus=1	TYPE:Animal Companion			ABILITY:Internal|AUTOMATIC|TYPE=BeastmasterAnimalFocusCompanionTempBonus
+# Flanking Companion
+FOLLOWER:BeastmasterCompanionFlankingCompanion=1	TYPE:Animal Companion			ABILITY:Internal|AUTOMATIC|Beastmaster Companion ~ Flanking Companion
+# Natural Savagery
+FOLLOWER:BeastmasterCompanionNaturalSavagery=1		TYPE:Animal Companion			DEFINE:BeastmasterNaturalSavageryBonus|0		BONUS:VAR|BeastmasterNaturalSavageryBonus|(mastervar("BeastmasterLVL")-2)/3	BONUS:COMBAT|TOHIT.Natural|BeastmasterNaturalSavageryBonus	BONUS:COMBAT|DAMAGE.Natural|BeastmasterNaturalSavageryBonus
