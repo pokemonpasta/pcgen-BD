@@ -37,6 +37,7 @@ ABILITYCATEGORY:Animal Companion Feat		POOL:Pool_AnimalCompanionFeat			VISIBLE:Q
 ABILITYCATEGORY:Companion Level Increase Choice	POOL:Pool_CompanionLevelIncreaseChoice	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:CompChoice			PLURAL:Companion Level Increase Choice	DISPLAYLOCATION:Character
 ABILITYCATEGORY:Companion Stat Increase		POOL:Pool_CompanionStatIncrease		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:CompStatChoice		PLURAL:Companion Stat Increase Choice	DISPLAYLOCATION:Character
 ABILITYCATEGORY:Companion Skill			POOL:Pool_CompanionSkill			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Internal			TYPE:AnimalCompanionSkill	PLURAL:Companion Skill Choice			DISPLAYLOCATION:Character
+ABILITYCATEGORY:Companion Ability Bonus									VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		FRACTIONALPOOL:NO		CATEGORY:Internal			TYPE:Companion Ability Bonus	PLURAL:Companion Ability Bonuses		DISPLAYLOCATION:Racial Abilities
 
 ###Block: Handle Animal Tricks and Training
 # Ability Category		Visible		Editable?		Change Pool?	Fractional values?	Category of Object		Type of Object	Plural description for UI	Display Location
