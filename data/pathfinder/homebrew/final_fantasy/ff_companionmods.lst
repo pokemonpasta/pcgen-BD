@@ -23,8 +23,8 @@ FOLLOWER:BeastmasterCompanionFlankingCompanion=1	TYPE:Animal Companion			ABILITY
 # Natural Savagery
 FOLLOWER:BeastmasterCompanionNaturalSavagery=1		TYPE:Animal Companion			DEFINE:BeastmasterNaturalSavageryBonus|0		BONUS:VAR|BeastmasterNaturalSavageryBonus|(mastervar("BeastmasterLVL")-2)/3	BONUS:COMBAT|TOHIT.Natural|BeastmasterNaturalSavageryBonus	BONUS:COMBAT|DAMAGE.Natural|BeastmasterNaturalSavageryBonus
 # FCB
-FOLLOWER:DwarfBeastmasterFavClassBonus=1			TYPE:Animal Companion			ASPECT:CombatBonus|+%1 CMD when adjacent to the beastmaster|mastervar("DwarfBeastmasterFavClassBonus")
-FOLLOWER:GalkaBeastmasterFavClassBonus=1			TYPE:Animal Companion			ASPECT:CombatBonus|+%1 CMD when adjacent to the beastmaster|mastervar("GalkaBeastmasterFavClassBonus")
+FOLLOWER:DwarfBeastmasterFavClassBonus=1			TYPE:Animal Companion			ABILITY:Internal|AUTOMATIC|Beastmaster Companion FCB ~ CMD
+FOLLOWER:GalkaBeastmasterFavClassBonus=1			TYPE:Animal Companion			ABILITY:Internal|AUTOMATIC|Beastmaster Companion FCB ~ CMD
 FOLLOWER:HumeBeastmasterFavClassBonus=1			TYPE:Animal Companion			BONUS:ABILITYPOOL|Beastmaster Favored Class Bonus|mastervar("HumeBeastmasterFavClassBonus")
 FOLLOWER:MoogleBeastmasterFavClassBonus=1			TYPE:Animal Companion			BONUS:ABILITYPOOL|Beastmaster Favored Class Bonus|mastervar("MoogleBeastmasterFavClassBonus")
 FOLLOWER:TarutaruBeastmasterFavClassBonus=1		TYPE:Animal Companion			BONUS:ABILITYPOOL|Beastmaster Favored Class Bonus|mastervar("TarutaruBeastmasterFavClassBonus")
