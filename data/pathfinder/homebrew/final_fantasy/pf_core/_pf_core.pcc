@@ -23,6 +23,9 @@ STAT:pf__stats.lst
 ABILITY:pf_abilities.lst
 ABILITYCATEGORY:pf_abilitycategories.lst
 ABILITY:pf_feats.lst
+EQUIP:pf_equip_arms_armor.lst
+EQUIP:pf_equip_general.lst
+EQUIP:pf_equip_magic_items.lst
 EQUIPMOD:pf_equipmods.lst
 SKILL:pf_skills.lst
 TEMPLATE:pf_templates.lst
