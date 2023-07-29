@@ -1,7 +1,5 @@
 
 # Common Languages
-Common			TYPE:Spoken.Base
-#
 Aegyllan			TYPE:Spoken.Base
 Albhedian			TYPE:Spoken.Base
 Aklo				TYPE:Spoken.Base
@@ -51,9 +49,3 @@ Runic				TYPE:Spoken.Base
 Terran			TYPE:Spoken.Base
 Thorian			TYPE:Spoken.Base
 Umbran			TYPE:Spoken.Base
-
-# Extra
-Abyssal	TYPE:Spoken
-Celestial	TYPE:Spoken
-Infernal	TYPE:Spoken
-Undercommon	TYPE:Spoken
