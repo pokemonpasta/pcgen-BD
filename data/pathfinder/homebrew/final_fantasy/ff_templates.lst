@@ -9,19 +9,19 @@ Default Bonus Languages ~ Bangaa		VISIBLE:NO	LANGBONUS:Draconic,Giant,Ignan,Numi
 Default Bonus Languages ~ Burmecian		VISIBLE:NO	LANGBONUS:Draconic,Dwarven,Elvaan,Galkan,Giant,Goblin,Orc
 Default Bonus Languages ~ Dwarf		VISIBLE:NO	LANGBONUS:Galkan,Giant,Goblin,Lalafellan,Orc
 Default Bonus Languages ~ Elvaan		VISIBLE:NO	LANGBONUS:Celestial,Draconic,Galkan,Gnoll,Goblin,Lalafellan,Mithran,Orc
-Default Bonus Languages ~ Galka		VISIBLE:NO	LANGBONUS:Dwarven,Elvaan,Giant,Goblin,Lalafell,Orc
-Default Bonus Languages ~ Gria		VISIBLE:NO	LANGBONUS:Bangese,Giant,Goblin,Ignan,Seeq,Terran
+Default Bonus Languages ~ Galka		VISIBLE:NO	LANGBONUS:Dwarven,Elvaan,Giant,Goblin,Lalafellan,Orc
+Default Bonus Languages ~ Gria		VISIBLE:NO	LANGBONUS:Banganese,Giant,Goblin,Ignan,Seeq,Terran
 Default Bonus Languages ~ Hume		VISIBLE:NO	LANGBONUS:TYPE=Spoken
 Default Bonus Languages ~ Mandragora	VISIBLE:NO	LANGBONUS:Draconic,Dwarven,Elvaan,Galkan,Giant,Goblin,Orc
 Default Bonus Languages ~ Mithra		VISIBLE:NO	LANGBONUS:Elvaan,Lupin,Goblin,Lalafellan,Orc,Vieran
 Default Bonus Languages ~ Moogle		VISIBLE:NO	LANGBONUS:Aklo,Auran,Draconic,Goblin,Numish,Sylvan
-Default Bonus Languages ~ Nu Mou		VISIBLE:NO	LANGBONUS:Bangese,Celestial,Draconic,Giant,Moogle,Sylvan,Vieran
-Default Bonus Languages ~ Qu			VISIBLE:NO	LANGBONUS:Bangese,Celestial,Draconic,Giant,Moogle,Sylvan,Vieran
-Default Bonus Languages ~ Ronso		VISIBLE:NO	LANGBONUS:Galkan,Giant,Goblin,Lalafell,Orc
-Default Bonus Languages ~ Seeq		VISIBLE:NO	LANGBONUS:Galkan,Giant,Goblin,Lalafell,Orc
+Default Bonus Languages ~ Nu Mou		VISIBLE:NO	LANGBONUS:Banganese,Celestial,Draconic,Giant,Moogle,Sylvan,Vieran
+Default Bonus Languages ~ Qu			VISIBLE:NO	LANGBONUS:Banganese,Celestial,Draconic,Giant,Moogle,Sylvan,Vieran
+Default Bonus Languages ~ Ronso		VISIBLE:NO	LANGBONUS:Galkan,Giant,Goblin,Lalafellan,Orc
+Default Bonus Languages ~ Seeq		VISIBLE:NO	LANGBONUS:Galkan,Giant,Goblin,Lalafellan,Orc
 Default Bonus Languages ~ Tarutaru		VISIBLE:NO	LANGBONUS:Draconic,Dwarven,Elvaan,Galkan,Giant,Goblin,Orc
 Default Bonus Languages ~ Varg		VISIBLE:NO	LANGBONUS:Draconic,Dwarven,Elvaan,Galkan,Giant,Goblin,Orc
-Default Bonus Languages ~ Viera		VISIBLE:NO	LANGBONUS:Celestial,Draconic,Elvaan,Gnoll,Goblin,Lalafell,Mithran,Orc
+Default Bonus Languages ~ Viera		VISIBLE:NO	LANGBONUS:Celestial,Draconic,Elvaan,Gnoll,Goblin,Lalafellan,Mithran,Orc
 
 # Bonus Languages
 Bonus Language ~ Aquan				VISIBLE:NO	LANGBONUS:Aquan

@@ -1,2 +1,23 @@
 
-
+# Language	Type								Required Var. value
+Abyssal	TYPE:Spoken.Written.Read.Planar
+Aklo		TYPE:Spoken.Written.Read
+Aquan		TYPE:Spoken.Written.Read.Elemental
+Auran		TYPE:Spoken.Written.Read.Elemental
+Celestial	TYPE:Spoken.Written.Read.Planar
+Common	TYPE:Spoken.Written.Read.ModernHumanLanguage.HumanRegional.Human
+Draconic	TYPE:Spoken.Written.Read
+Druidic	TYPE:Spoken.Written.Read.Secret			PREVAREQ:DruidSecretLanguage,1
+Dwarven	TYPE:Spoken.Written.Read
+Elven		TYPE:Spoken.Written.Read
+Giant		TYPE:Spoken.Written.Read
+Gnoll		TYPE:Spoken.Written.Read
+Gnome		TYPE:Spoken.Written.Read
+Goblin	TYPE:Spoken.Written.Read
+Halfling	TYPE:Spoken.Written.Read
+Ignan		TYPE:Spoken.Written.Read.Elemental
+Infernal	TYPE:Spoken.Written.Read.Planar
+Orc		TYPE:Spoken.Written.Read
+Sylvan	TYPE:Spoken.Written.Read
+Terran	TYPE:Spoken.Written.Read.Elemental
+Undercommon	TYPE:Spoken.Written.Read
