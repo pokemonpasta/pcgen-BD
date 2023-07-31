@@ -1,5 +1,6 @@
 
+# Shield Name	Unique Key
 Buckler
-Shield (Light)
-Shield (Heavy)
-Shield (Tower)
+Light Shield	KEY:Shield (Light)
+Heavy Shield	KEY:Shield (Heavy)
+Tower Shield

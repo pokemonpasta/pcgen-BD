@@ -915,3 +915,6 @@ Incorporeal			VISIBLE:NO	DEFINESTAT:NONSTAT|STR
 No Strength Score		VISIBLE:NO	DEFINESTAT:NONSTAT|STR
 No Constitution Score	VISIBLE:NO	DEFINESTAT:NONSTAT|CON
 No Intelligence Score	VISIBLE:NO	DEFINESTAT:NONSTAT|INT
+
+###Block: Miscellaneous Support
+Racial Heritage					TEMPLATE:%LIST																																								CHOOSE:TEMPLATE|TYPE=Racial Heritage

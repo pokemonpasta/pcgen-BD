@@ -1,13 +1,23 @@
-
+#Light
+# Armor Name	Unique Key
 Padded
 Leather
 Studded Leather
 Chain Shirt
+
+#Medium
 Hide
 Scale Mail
 Chainmail
 Breastplate
+
+#Heavy
 Splint Mail
 Banded Mail
 Half-Plate
 Full Plate
+
+# Barding
+Light Barding	KEY:Barding (Light)
+Medium Barding	KEY:Barding (Medium)
+Heavy Barding	KEY:Barding (Heavy)

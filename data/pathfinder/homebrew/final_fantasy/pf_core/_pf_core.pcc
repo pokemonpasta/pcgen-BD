@@ -27,6 +27,5 @@ EQUIPMENT:pf_equip_arms_armor.lst
 EQUIPMENT:pf_equip_general.lst
 EQUIPMENT:pf_equip_magic_items.lst
 EQUIPMOD:pf_equipmods.lst
-RACE:pf_races_companion.lst
 SKILL:pf_skills.lst
 TEMPLATE:pf_templates.lst
