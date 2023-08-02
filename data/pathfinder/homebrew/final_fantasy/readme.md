@@ -71,7 +71,7 @@
 
 
 # Core PF
-	NOTE: Some feats/equipment commented out as required abilities/classes for objects to function are not compatible with the system.
+	NOTE: Some objects commented out as required abilities/classes for objects to function are not compatible with the system.
 	Includes core skills, feats, and ability support.
 	Feats imported from
 		Core Essentials
@@ -81,4 +81,7 @@
 		Dirty Tactics Toolbox
 	Equipment imported from
 		Core Rulebook
+	Weaponprofs imported from
+		Core Rulebook
+		Ultimate Combat
 

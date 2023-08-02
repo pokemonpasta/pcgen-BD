@@ -47,8 +47,6 @@ ABILITY:ff_feats.lst
 
 LANGUAGE:ff_languages.lst
 
-ARMORPROF:ff_profs_armor.lst
-SHIELDPROF:ff_profs_shield.lst
 WEAPONPROF:ff_profs_weapon.lst
 
 RACE:ff_races.lst

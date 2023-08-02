@@ -19,6 +19,9 @@ SAVE:pf__saves.lst
 SIZE:pf__sizes.lst
 STAT:pf__stats.lst
 
+# Other book imports
+PCC:import/_pf_import.pcc
+
 # Files
 ABILITY:pf_abilities.lst
 ABILITYCATEGORY:pf_abilitycategories.lst
@@ -29,3 +32,7 @@ EQUIPMENT:pf_equip_magic_items.lst
 EQUIPMOD:pf_equipmods.lst
 SKILL:pf_skills.lst
 TEMPLATE:pf_templates.lst
+
+ARMORPROF:pf_profs_armor.lst
+SHIELDPROF:pf_profs_shield.lst
+WEAPONPROF:pf_profs_weapon.lst

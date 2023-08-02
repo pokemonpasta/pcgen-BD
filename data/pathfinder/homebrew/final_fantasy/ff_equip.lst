@@ -39,56 +39,56 @@ Wind 1 Materia		TYPE:Materia.Spell Materia		SORTKEY:Materia 01	KEY:Materia ~ Win
 Wind 2 Materia		TYPE:Materia.Spell Materia		SORTKEY:Materia 01	KEY:Materia ~ Wind 2		COST:3000	SPROP:Weapon - +1d6 Wind damage	SPROP:Armor - Wind Resistance 5		SPROP:UMD Can cast Aero II
 Wind 3 Materia		TYPE:Materia.Spell Materia		SORTKEY:Materia 01	KEY:Materia ~ Wind 3		COST:6000	SPROP:Weapon - +2d6 Wind damage	SPROP:Armor - Wind Resistance 10		SPROP:UMD Can cast Aero III
 
-###Block - Support Materia
-Barrier			TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
-Cure				TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
-Holy				TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
-Life				TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
-Protect			TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
-Regen				TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
-Shell				TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
-
-###Block - Independent Material
-Ability Boost		TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Cast Boost			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Demolition			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Doublecut			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Evasion			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Flight			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-HP				TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Light				TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-MP				TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Safe				TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Shadow			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Spell Reduction		TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Spider			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Undead			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-Underwater			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
-
-###Block - Ability Materia
-Cleave			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-Dodge				TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-Endurance			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-Expertise			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-Flank				TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-Mounted			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-Overwhelm			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-Power				TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-Shield			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-Skill				TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-Unarmed			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
-
-###Block - Summon Materia
-Bahamut			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
-Carbuncle			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
-Diablo			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
-Ifrit				TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
-Ixion				TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
-Leviathan			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
-Phoenix			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
-Shiva				TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
-Titan				TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
-Valefor			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
+####Block - Support Materia
+#Barrier			TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
+#Cure				TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
+#Holy				TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
+#Life				TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
+#Protect			TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
+#Regen				TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
+#Shell				TYPE:Materia.Support Materia		SORTKEY:Materia 02	KEY:x
+#
+####Block - Independent Material
+#Ability Boost		TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Cast Boost			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Demolition			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Doublecut			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Evasion			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Flight			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#HP				TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Light				TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#MP				TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Safe				TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Shadow			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Spell Reduction		TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Spider			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Undead			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#Underwater			TYPE:Materia.Independent Materia		SORTKEY:Materia 03	KEY:x
+#
+####Block - Ability Materia
+#Cleave			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#Dodge				TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#Endurance			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#Expertise			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#Flank				TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#Mounted			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#Overwhelm			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#Power				TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#Shield			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#Skill				TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#Unarmed			TYPE:Materia.Ability Materia		SORTKEY:Materia 04	KEY:x
+#
+####Block - Summon Materia
+#Bahamut			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
+#Carbuncle			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
+#Diablo			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
+#Ifrit				TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
+#Ixion				TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
+#Leviathan			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
+#Phoenix			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
+#Shiva				TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
+#Titan				TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
+#Valefor			TYPE:Materia.Summon Materia		SORTKEY:Materia 05	KEY:x
 
 
 

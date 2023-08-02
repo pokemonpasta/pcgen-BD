@@ -1,0 +1,24 @@
+CAMPAIGN:Pathfinder Supplementary Rule Import
+KEY:PF ~ Supplement Rule Import
+# no gamemode
+
+BOOKTYPE:Rules
+SOURCELONG:Pathfinder
+SOURCESHORT:PF
+SOURCEDATE:2010-01
+RANK:201001
+PUBNAMELONG:Homebrew
+PUBNAMESHORT:HB
+PUBNAMEWEB:http://www.finalfantasyd20.com/
+
+# Advanced Players Guide
+ABILITY:advanced_players_guide/pf_feats_apg.lst
+ABILITYCATEGORY:advanced_players_guide/pf_abilitycategories_apg.lst
+
+# Dirty Tactics Toolbox
+ABILITY:dirty_tactics_toolbox/pf_feats_dtt.lst
+
+# Ultimate Combat
+ABILITY:ultimate_combat/pf_feats_uc.lst
+ABILITYCATEGORY:ultimate_combat/pf_abilitycategories_uc.lst
+WEAPONPROF:ultimate_combat/pf_profs_weapon_uc.lst

@@ -2669,6 +2669,11 @@ CATEGORY=Internal|Improved Familiar List (7th Level).MOD																								
 CATEGORY=Internal|Improved Familiar List (7th Level).MOD																																											COMPANIONLIST:Familiar|Devil (Imp)|!PREALIGN:LG,NG,CG,CN,CE
 CATEGORY=Internal|Improved Familiar List (7th Level).MOD																																											COMPANIONLIST:Familiar|Demon (Quasit)|!PREALIGN:LG,LN,LE,NG,CG
 
+# =========
+# TODO: These were all imported BEFORE I introduced the system for non-core data to be imported into separate files. Move these to their respective books.
+# =========
+
+
 ###Block: Evasion and Improved Evasion --------------------------------------------------------------------------------------------------
 # Ability Name	Unique Key			Category of Ability		Type																					Visible	Description																																																							Ability
 Evasion						CATEGORY:Special Ability	TYPE:Internal.ClassFeatures.RangerClassFeatures.RogueClassFeatures.MonkClassFeatures							VISIBLE:NO																																																									ABILITY:Special Ability|AUTOMATIC|Evasion Output|!PREABILITY:1,CATEGORY=Special Ability,Improved Evasion
