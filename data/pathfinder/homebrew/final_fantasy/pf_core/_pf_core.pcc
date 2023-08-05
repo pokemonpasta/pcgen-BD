@@ -14,10 +14,12 @@ PUBNAMEWEB:http://www.finalfantasyd20.com/
 # Core
 ALIGNMENT:pf__align.lst
 DATACONTROL:pf__datacontrols.lst
+GLOBALMODIFIER:pf__globalmodifiers.lst
 RACE:*/_universal/races.lst
 SAVE:pf__saves.lst
 SIZE:pf__sizes.lst
 STAT:pf__stats.lst
+VARIABLE:pf__variables.lst
 
 # Other book imports
 PCC:import/_pf_import.pcc
@@ -30,6 +32,7 @@ EQUIPMENT:pf_equip_arms_armor.lst
 EQUIPMENT:pf_equip_general.lst
 EQUIPMENT:pf_equip_magic_items.lst
 EQUIPMOD:pf_equipmods.lst
+LANGUAGE:pf_languages.lst
 SKILL:pf_skills.lst
 TEMPLATE:pf_templates.lst
 

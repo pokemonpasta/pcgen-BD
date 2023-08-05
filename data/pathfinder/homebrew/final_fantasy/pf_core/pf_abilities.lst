@@ -2647,28 +2647,6 @@ Temp Bonus ~ Reduce Person	CATEGORY:Internal		BONUS:COMBAT|TOHIT.GRAPPLE|-5|TYPE
 # MISCELLANEOUS SUPPORT
 # =====================
 
-###Block: Familiar Choices
-# Ability Name								Category of Ability	Define				Ability																																Allowed Companions
-Standard Familiar List							CATEGORY:Internal		DEFINE:FamiliarMasterLVL|0																																		COMPANIONLIST:Familiar|Bat,Cat,Hawk,Lizard,Monkey,Owl,Rat,Raven,Toad,Viper,Weasel
-Improved Familiar List							CATEGORY:Internal
-CATEGORY=Internal|Improved Familiar List.MOD												ABILITY:Internal|AUTOMATIC|Improved Familiar List (3rd Level)|PREMULT:1,[PREVARGTEQ:FamiliarMasterLVL,3],[PREVARGTEQ:Caster_Level_Highest__Arcane,3],[PREVARGTEQ:ImprovedFamiliarQualifierLVL,3]
-CATEGORY=Internal|Improved Familiar List.MOD												ABILITY:Internal|AUTOMATIC|Improved Familiar List (5th Level)|PREMULT:1,[PREVARGTEQ:FamiliarMasterLVL,5],[PREVARGTEQ:Caster_Level_Highest__Arcane,5],[PREVARGTEQ:ImprovedFamiliarQualifierLVL,5]
-CATEGORY=Internal|Improved Familiar List.MOD												ABILITY:Internal|AUTOMATIC|Improved Familiar List (7th Level)|PREMULT:1,[PREVARGTEQ:FamiliarMasterLVL,7],[PREVARGTEQ:Caster_Level_Highest__Arcane,7],[PREVARGTEQ:ImprovedFamiliarQualifierLVL,7]
-
-Improved Familiar List (3rd Level)					CATEGORY:Internal
-CATEGORY=Internal|Improved Familiar List (3rd Level).MOD																																											COMPANIONLIST:Familiar|Rat (Dire)
-CATEGORY=Internal|Improved Familiar List (3rd Level).MOD																																											COMPANIONLIST:Familiar|Bat (Celestial),Cat (Celestial),Hawk (Celestial),Lizard (Celestial),Monkey (Celestial),Owl (Celestial),Rat (Celestial),Raven (Celestial),Toad (Celestial),Viper (Celestial),Weasel (Celestial)|PREALIGN:LG,NG,CG,LN,TN,CN
-CATEGORY=Internal|Improved Familiar List (3rd Level).MOD																																											COMPANIONLIST:Familiar|Bat (Fiendish),Cat (Fiendish),Hawk (Fiendish),Lizard (Fiendish),Monkey (Fiendish),Owl (Fiendish),Rat (Fiendish),Raven (Fiendish),Toad (Fiendish),Viper (Fiendish),Weasel (Fiendish)|PREALIGN:LE,NE,CE,LN,TN,CN
-
-Improved Familiar List (5th Level)					CATEGORY:Internal
-CATEGORY=Internal|Improved Familiar List (5th Level).MOD																																											COMPANIONLIST:Familiar|Elemental (Air/Small),Elemental (Earth/Small),Elemental (Fire/Small),Elemental (Water/Small),Stirge
-
-Improved Familiar List (7th Level)					CATEGORY:Internal
-CATEGORY=Internal|Improved Familiar List (7th Level).MOD																																											COMPANIONLIST:Familiar|Homunculus,Mephit (Air),Mephit (Dust),Mephit (Earth),Mephit (Fire),Mephit (Ice),Mephit (Magma),Mephit (Ooze),Mephit (Salt),Mephit (Steam),Mephit (Water)
-CATEGORY=Internal|Improved Familiar List (7th Level).MOD																																											COMPANIONLIST:Familiar|Pseudodragon|!PREALIGN:LE,NE,CE
-CATEGORY=Internal|Improved Familiar List (7th Level).MOD																																											COMPANIONLIST:Familiar|Devil (Imp)|!PREALIGN:LG,NG,CG,CN,CE
-CATEGORY=Internal|Improved Familiar List (7th Level).MOD																																											COMPANIONLIST:Familiar|Demon (Quasit)|!PREALIGN:LG,LN,LE,NG,CG
-
 # =========
 # TODO: These were all imported BEFORE I introduced the system for non-core data to be imported into separate files. Move these to their respective books.
 # =========
@@ -2768,7 +2746,6 @@ Aspect Combat Bonus ~ Buckler		CATEGORY:Internal																ASPECT:CombatBon
 Aspect Combat Bonus ~ Furious Focus				CATEGORY:Internal																																																																											ASPECT:CombatBonus|When you are wielding a two-handed weapon or a one-handed weapon with two hands, and using the Power Attack feat, you do not suffer Power Attack's penalty on melee attack rolls on the first attack you make each turn.
 Aspect Combat Bonus ~ Low Profile				CATEGORY:Internal																																																																											ASPECT:CombatBonus|+1 dodge bonus to AC against ranged attacks. In addition, you do not provide soft cover to creatures when ranged attacks pass through your square.
 Exotic Weapon Proficiency ~ Firearms	CATEGORY:Internal																			AUTO:WEAPONPROF|TYPE=Firearm
-Feat ~ Cosmopolitan										CATEGORY:Internal																BONUS:ABILITYPOOL|Cosmopolitan Spoken Language|2
 Racial Heritage Choice										CATEGORY:Internal		STACK:NO	MULT:YES	CHOOSE:TEMPLATE|TYPE=Racial Heritage	TEMPLATE:%LIST
 Robe of the Archmagi	CATEGORY:Internal	ABILITY:Internal|AUTOMATIC|Spell Resistance ~ 18	BONUS:COMBAT|AC|5|TYPE=Armor	BONUS:VAR|FortitudeSave_ResistanceBonus,ReflexSave_ResistanceBonus,WillSave_ResistanceBonus|4|TYPE=Resistance
 Tracker ~ Range Penalty	CATEGORY:Internal		BONUS:COMBAT|RANGEPENALTY|RangePenaltyValue	DEFINE:RangePenaltyValue|0	

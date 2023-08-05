@@ -19,7 +19,7 @@ FOLLOWER:BeastmasterTrickThickHide=1			TYPE:Animal Companion			BONUS:VAR|AC_Natu
 # Animal Focus
 FOLLOWER:BeastmasterAnimalFocusCompanionTempBonus=1	TYPE:Animal Companion			ABILITY:Internal|AUTOMATIC|TYPE=BeastmasterAnimalFocusCompanionTempBonus
 # Flanking Companion
-FOLLOWER:BeastmasterCompanionFlankingCompanion=1	TYPE:Animal Companion			ABILITY:Internal|AUTOMATIC|Beastmaster Companion ~ Flanking Companion
+FOLLOWER:BeastmasterCompanionFlankingCompanion=1	TYPE:Animal Companion			BONUS:ABILITYPOOL|Flanking Companion Feat|1
 # Natural Savagery
 FOLLOWER:BeastmasterCompanionNaturalSavagery=1		TYPE:Animal Companion			DEFINE:BeastmasterNaturalSavageryBonus|0		BONUS:VAR|BeastmasterNaturalSavageryBonus|(mastervar("BeastmasterLVL")-2)/3	BONUS:COMBAT|TOHIT.Natural|BeastmasterNaturalSavageryBonus	BONUS:COMBAT|DAMAGE.Natural|BeastmasterNaturalSavageryBonus
 # FCB

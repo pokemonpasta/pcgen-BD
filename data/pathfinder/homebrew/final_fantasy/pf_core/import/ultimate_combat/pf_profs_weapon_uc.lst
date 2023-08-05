@@ -264,7 +264,7 @@ Naginata.MOD									TYPE:Polearm.Weapon Group Spears
 
 Amentum.MOD										TYPE:Spear.Weapon Group Spears.Thrown.Weapon Group Thrown
 #Boar Spear.MOD	TYPE:Spear
-Pilum.MOD										TYPE:Spear.Weapon Group Spears
+#Pilum.MOD										TYPE:Spear.Weapon Group Spears
 Sibat.MOD										TYPE:Spear.Weapon Group Spears
 Tiger Fork.MOD									TYPE:Spear.Weapon Group Spears
 
