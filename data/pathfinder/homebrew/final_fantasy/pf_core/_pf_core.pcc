@@ -39,6 +39,7 @@ TEMPLATE:pf_templates.lst
 # Companion
 ABILITY:pf_abilities_companion.lst
 CLASS:pf_classes_companion.lst
+COMPANIONMOD:pf_companionmods.lst
 KIT:pf_kits_companion.lst
 RACE:pf_races_companion.lst
 TEMPLATE:pf_templates_companion.lst

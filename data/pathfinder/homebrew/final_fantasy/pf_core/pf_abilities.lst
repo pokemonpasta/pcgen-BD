@@ -1,6 +1,9 @@
 
 Default	CATEGORY:Internal
 
+# Companion Support
+CATEGORY=Internal|Default.MOD		ABILITY:Internal|AUTOMATIC|Companion Tracker|PREMULT:1,[PREVARGTEQ:FamiliarMasterLVL,1],[PREVARGTEQ:AnimalCompanionMasterLVL,1]
+
 ###Block - Movement Modes, prep for new formula system.
 CATEGORY=Internal|Default.MOD	DEFINE:Walk|0	DEFINE:BaseMove_Walk|0	DEFINE:BonusMove_Walk|0
 CATEGORY=Internal|Default.MOD	DEFINE:Fly|0	DEFINE:BaseMove_Fly|0	DEFINE:BonusMove_Fly|0
