@@ -22,6 +22,8 @@ FOLLOWER:BeastmasterAnimalFocusCompanionTempBonus=1	TYPE:Animal Companion			ABIL
 FOLLOWER:BeastmasterCompanionFlankingCompanion=1	TYPE:Animal Companion			BONUS:ABILITYPOOL|Flanking Companion Feat|1
 # Natural Savagery
 FOLLOWER:BeastmasterCompanionNaturalSavagery=1		TYPE:Animal Companion			DEFINE:BeastmasterNaturalSavageryBonus|0		BONUS:VAR|BeastmasterNaturalSavageryBonus|(mastervar("BeastmasterLVL")-2)/3	BONUS:COMBAT|TOHIT.Natural|BeastmasterNaturalSavageryBonus	BONUS:COMBAT|DAMAGE.Natural|BeastmasterNaturalSavageryBonus
+# Bonus Trick
+FOLLOWER:BeastmasterBonusTricks=1				TYPE:Animal Companion			BONUS:VAR|BonusTricks|mastervar("BeastmasterBonusTricks")
 # FCB
 FOLLOWER:DwarfBeastmasterFavClassBonus=1			TYPE:Animal Companion			ABILITY:Internal|AUTOMATIC|Beastmaster Companion FCB ~ CMD
 FOLLOWER:GalkaBeastmasterFavClassBonus=1			TYPE:Animal Companion			ABILITY:Internal|AUTOMATIC|Beastmaster Companion FCB ~ CMD
