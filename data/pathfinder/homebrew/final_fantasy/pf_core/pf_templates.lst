@@ -918,3 +918,4 @@ No Intelligence Score	VISIBLE:NO	DEFINESTAT:NONSTAT|INT
 
 ###Block: Miscellaneous Support
 Racial Heritage					TEMPLATE:%LIST																																								CHOOSE:TEMPLATE|TYPE=Racial Heritage
+Creature with Class Levels			VISIBLE:NO							BONUS:ABILITYPOOL|Class Level +4 Ability Adjustment|2|PREMULT:2,[PRECLASS:1,TYPE.Monster=1],[PRECLASS:1,TYPE.PC=1]	BONUS:ABILITYPOOL|Class Level +2 Ability Adjustment|2|PREMULT:2,[PRECLASS:1,TYPE.Monster=1],[PRECLASS:1,TYPE.PC=1]	BONUS:ABILITYPOOL|Class Level -2 Ability Adjustment|1|PREMULT:2,[PRECLASS:1,TYPE.Monster=1],[PRECLASS:1,TYPE.PC=1]

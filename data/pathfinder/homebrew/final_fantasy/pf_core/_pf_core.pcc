@@ -36,6 +36,14 @@ LANGUAGE:pf_languages.lst
 SKILL:pf_skills.lst
 TEMPLATE:pf_templates.lst
 
+# Companion
+ABILITY:pf_abilities_companion.lst
+CLASS:pf_classes_companion.lst
+KIT:pf_kits_companion.lst
+RACE:pf_races_companion.lst
+TEMPLATE:pf_templates_companion.lst
+
+# Proficiencies
 ARMORPROF:pf_profs_armor.lst
 SHIELDPROF:pf_profs_shield.lst
 WEAPONPROF:pf_profs_weapon.lst

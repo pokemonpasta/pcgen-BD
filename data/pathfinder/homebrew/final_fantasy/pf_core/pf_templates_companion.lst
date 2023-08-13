@@ -1,0 +1,9 @@
+
+###Block: Animal Companion templates
+# COMMENT: Some animal companions don't follow the standard die-increase
+# COMMENT:   pattern for their natural weapons when they increase in power.
+# COMMENT:   These templates are intended to handle that.
+# Template Name					Size		Visible	Source Page		Stat bonus								Modify VAR													Ability						Natural Attacks
+Arsinoitherium Companion Advancement	SIZE:L	VISIBLE:NO	SOURCEPAGE:p.186	BONUS:STAT|STR|8	BONUS:STAT|DEX|-2	BONUS:STAT|CON|4	BONUS:VAR|AC_Natural_Armor|2|TYPE=Base.STACK							ABILITY:Special Ability|AUTOMATIC|Trample	NATURALATTACKS:Gore,Weapon.Natural.Weapon Group Natural.Melee.Finesseable.Piercing,*1,2d8
+Gylptodon Companion Advancement		SIZE:L	VISIBLE:NO	SOURCEPAGE:p.186	BONUS:STAT|STR|8	BONUS:STAT|DEX|-2	BONUS:STAT|CON|4	BONUS:VAR|AC_Natural_Armor|2|TYPE=Base.STACK														NATURALATTACKS:Claw,Weapon.Natural.Weapon Group Natural.Melee.Finesseable.Slashing,*2,1d10
+Hippopotamus Companion Advancement		SIZE:L	VISIBLE:NO	SOURCEPAGE:p.157	BONUS:STAT|STR|8	BONUS:STAT|DEX|-2	BONUS:STAT|CON|4	BONUS:VAR|AC_Natural_Armor|2|TYPE=Base.STACK	BONUS:VAR|TrampleDamageDieSize|8	ABILITY:Special Ability|AUTOMATIC|Trample	NATURALATTACKS:Bite,Weapon.Natural.Weapon Group Natural.Melee.Finesseable.Piercing,*1,2d8
