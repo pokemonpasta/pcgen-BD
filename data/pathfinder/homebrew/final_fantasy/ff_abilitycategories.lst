@@ -1,40 +1,40 @@
 
 
 ###Block - Racial Traits
-ABILITYCATEGORY:Aegyl Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Aegyl Racial Trait		PLURAL:Aegyl Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Bangaa Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Bangaa Racial Trait	PLURAL:Bangaa Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Burmecian Racial Trait	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Burmecian Racial Trait	PLURAL:Burmecian Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Dwarf Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Dwarf Racial Trait		PLURAL:Dwarf Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Elvaan Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Elvaan Racial Trait	PLURAL:Elvaan Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Galka Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Galka Racial Trait		PLURAL:Galka Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Gria Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Gria Racial Trait		PLURAL:Gria Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Hume Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Hume Racial Trait		PLURAL:Hume Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Mandragora Racial Trait	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Mandragora Racial Trait	PLURAL:Mandragora Racial Trait	DISPLAYLOCATION:Character
-ABILITYCATEGORY:Mithra Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Mithra Racial Trait	PLURAL:Mithra Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Moogle Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Moogle Racial Trait	PLURAL:Moogle Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Nu Mou Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Nu Mou Racial Trait	PLURAL:Nu Mou Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Qu Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Qu Racial Trait		PLURAL:Qu Racial Trait			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Ronso Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Ronso Racial Trait		PLURAL:Ronso Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Seeq Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Seeq Racial Trait		PLURAL:Seeq Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Tarutaru Racial Trait	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Tarutaru Racial Trait	PLURAL:Tarutaru Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Varg Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Varg Racial Trait		PLURAL:Varg Racial Trait		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Viera Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Viera Racial Trait		PLURAL:Viera Racial Trait		DISPLAYLOCATION:Character
+ABILITYCATEGORY:Aegyl Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Aegyl Racial Trait		PLURAL:Aegyl Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Bangaa Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Bangaa Racial Trait	PLURAL:Bangaa Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Burmecian Racial Trait	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Burmecian Racial Trait	PLURAL:Burmecian Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Dwarf Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Dwarf Racial Trait		PLURAL:Dwarf Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Elvaan Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Elvaan Racial Trait	PLURAL:Elvaan Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Galka Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Galka Racial Trait		PLURAL:Galka Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Gria Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Gria Racial Trait		PLURAL:Gria Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Hume Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Hume Racial Trait		PLURAL:Hume Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Mandragora Racial Trait	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Mandragora Racial Trait	PLURAL:Mandragora Racial Trait	DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Mithra Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Mithra Racial Trait	PLURAL:Mithra Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Moogle Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Moogle Racial Trait	PLURAL:Moogle Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Nu Mou Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Nu Mou Racial Trait	PLURAL:Nu Mou Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Qu Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Qu Racial Trait		PLURAL:Qu Racial Trait			DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Ronso Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Ronso Racial Trait		PLURAL:Ronso Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Seeq Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Seeq Racial Trait		PLURAL:Seeq Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Tarutaru Racial Trait	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Tarutaru Racial Trait	PLURAL:Tarutaru Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Varg Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Varg Racial Trait		PLURAL:Varg Racial Trait		DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Viera Racial Trait		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Viera Racial Trait		PLURAL:Viera Racial Trait		DISPLAYLOCATION:Racial Abilities
 
 ###Block - Heritages
-ABILITYCATEGORY:Dwarf Heritage		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:DwarfHeritage				PLURAL:Dwarf Heritages	DISPLAYLOCATION:Character
-ABILITYCATEGORY:Elvaan Heritage		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:ElvaanHeritage				PLURAL:Elvaan Heritages	DISPLAYLOCATION:Character
-ABILITYCATEGORY:Hume Heritage			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:HumeHeritage					PLURAL:Hume Heritages	DISPLAYLOCATION:Character
-ABILITYCATEGORY:Mithra Heritage		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:MithraHeritage				PLURAL:Mithra Heritages	DISPLAYLOCATION:Character
-ABILITYCATEGORY:Moogle Heritage		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:MoogleHeritage				PLURAL:Moogle Heritages	DISPLAYLOCATION:Character
-ABILITYCATEGORY:Tarutaru Heritage		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:TarutaruHeritage				PLURAL:Tarutaru Heritages	DISPLAYLOCATION:Character
+ABILITYCATEGORY:Dwarf Heritage		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:DwarfHeritage		PLURAL:Dwarf Heritages			DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Elvaan Heritage		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:ElvaanHeritage		PLURAL:Elvaan Heritages			DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Hume Heritage			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:HumeHeritage			PLURAL:Hume Heritages			DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Mithra Heritage		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:MithraHeritage		PLURAL:Mithra Heritages			DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Moogle Heritage		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:MoogleHeritage		PLURAL:Moogle Heritages			DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Tarutaru Heritage		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:TarutaruHeritage		PLURAL:Tarutaru Heritages		DISPLAYLOCATION:Racial Abilities
 
 ###Block: Racial Abilities
 # Elvaan
 ABILITYCATEGORY:Elvaan Martial Background Weapon Focus	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		FRACTIONALPOOL:NO		CATEGORY:FEAT		ABILITYLIST:Weapon Focus								PLURAL:Elvaan Martial Background Weapon Focus		DISPLAYLOCATION:Feats
 # Hume
-ABILITYCATEGORY:Adoptive Parentage			VISIBLE:NO		EDITABLE:NO		EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Adoptive Parentage
-ABILITYCATEGORY:Focused Study Choice		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		FRACTIONALPOOL:NO		CATEGORY:Internal			TYPE:Focused Study Choice									PLURAL:Focused Study Choices					DISPLAYLOCATION:Racial Abilities
-ABILITYCATEGORY:Heart of the Trait			VISIBLE:NO		EDITABLE:NO		EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:Heart Trait
+ABILITYCATEGORY:Adoptive Parentage				VISIBLE:NO		EDITABLE:NO		EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Adoptive Parentage
+ABILITYCATEGORY:Focused Study Choice			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		FRACTIONALPOOL:NO		CATEGORY:Internal			TYPE:Focused Study Choice									PLURAL:Focused Study Choices					DISPLAYLOCATION:Racial Abilities
+ABILITYCATEGORY:Heart of the Trait				VISIBLE:NO		EDITABLE:NO		EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Special Ability	TYPE:Heart Trait
 ABILITYCATEGORY:Hume Curiosity				VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		FRACTIONALPOOL:NO		CATEGORY:Internal			TYPE:Hume Curiosity									PLURAL:Hume Curiosity						DISPLAYLOCATION:Racial Abilities
 ABILITYCATEGORY:Cetra Bonus Language			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		FRACTIONALPOOL:NO		CATEGORY:Internal			ABILITYLIST:Hume Cetra ~ Bonus Language						PLURAL:Cetra Bonus Languages					DISPLAYLOCATION:Racial Abilities
 ABILITYCATEGORY:Lufenian Skill Bonus Choice		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		FRACTIONALPOOL:NO		CATEGORY:Internal			ABILITYLIST:Hume Lufenian ~ Skill Bonus						PLURAL:Lufenian Skill Bonus Choices				DISPLAYLOCATION:Racial Abilities
@@ -47,32 +47,32 @@ ABILITYCATEGORY:Moogle Handy Skill Choice			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOO
 ABILITYCATEGORY:Tarutaru Talented Skill Choice		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		FRACTIONALPOOL:NO		CATEGORY:Internal			ABILITYLIST:Tarutaru Talented ~ Skill Choice					PLURAL:Tarutaru Talented Skill Choices			DISPLAYLOCATION:Racial Abilities
 
 ###Block - Classes
-ABILITYCATEGORY:Archer Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Archer Class Feature		PLURAL:Archer Class Features			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Bard Class Feature			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Bard Class Feature			PLURAL:Bard Class Features			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Beastmaster Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Beastmaster Class Feature	PLURAL:Beastmaster Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Black Mage Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Black Mage Class Feature		PLURAL:Black Mage Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Blue Mage Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Blue Mage Class Feature		PLURAL:Blue Mage Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Chemist Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Chemist Class Feature		PLURAL:Chemist Class Features			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Chocobo Knight Class Feature	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Chocobo Knight Class Feature	PLURAL:Chocobo Knight Class Features	DISPLAYLOCATION:Character
-ABILITYCATEGORY:Dark Knight Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Dark Knight Class Feature	PLURAL:Dark Knight Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Dragoon Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Dragoon Class Feature		PLURAL:Dragoon Class Features			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Fighter Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Fighter Class Feature		PLURAL:Fighter Class Features			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Geomancer Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Geomancer Class Feature		PLURAL:Geomancer Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Holy Knight Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Holy Knight Class Feature	PLURAL:Holy Knight Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Illusionist Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Illusionist Class Feature	PLURAL:Illusionist Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Knight Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Knight Class Feature		PLURAL:Knight Class Features			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Monk Class Feature			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Monk Class Feature			PLURAL:Monk Class Features			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Necromancer Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Necromancer Class Feature	PLURAL:Necromancer Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Red Mage Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Red Mage Class Feature		PLURAL:Red Mage Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Summoner Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Summoner Class Feature		PLURAL:Summoner Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Thief Class Feature			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Thief Class Feature		PLURAL:Thief Class Features			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Time Mage Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Time Mage Class Feature		PLURAL:Time Mage Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:White Mage Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:White Mage Class Feature		PLURAL:White Mage Class Features		DISPLAYLOCATION:Character
+ABILITYCATEGORY:Archer Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Archer Class Feature		PLURAL:Archer Class Features			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Bard Class Feature			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Bard Class Feature			PLURAL:Bard Class Features			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Beastmaster Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Beastmaster Class Feature	PLURAL:Beastmaster Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Black Mage Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Black Mage Class Feature		PLURAL:Black Mage Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Blue Mage Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Blue Mage Class Feature		PLURAL:Blue Mage Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Chemist Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Chemist Class Feature		PLURAL:Chemist Class Features			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Chocobo Knight Class Feature	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Chocobo Knight Class Feature	PLURAL:Chocobo Knight Class Features	DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Dark Knight Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Dark Knight Class Feature	PLURAL:Dark Knight Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Dragoon Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Dragoon Class Feature		PLURAL:Dragoon Class Features			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Fighter Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Fighter Class Feature		PLURAL:Fighter Class Features			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Geomancer Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Geomancer Class Feature		PLURAL:Geomancer Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Holy Knight Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Holy Knight Class Feature	PLURAL:Holy Knight Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Illusionist Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Illusionist Class Feature	PLURAL:Illusionist Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Knight Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Knight Class Feature		PLURAL:Knight Class Features			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Monk Class Feature			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Monk Class Feature			PLURAL:Monk Class Features			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Necromancer Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Necromancer Class Feature	PLURAL:Necromancer Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Red Mage Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Red Mage Class Feature		PLURAL:Red Mage Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Summoner Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Summoner Class Feature		PLURAL:Summoner Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Thief Class Feature			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Thief Class Feature		PLURAL:Thief Class Features			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Time Mage Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Time Mage Class Feature		PLURAL:Time Mage Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:White Mage Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:White Mage Class Feature		PLURAL:White Mage Class Features		DISPLAYLOCATION:Class Features
 # Hybrid
-ABILITYCATEGORY:Black Belt Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Black Belt Class Feature		PLURAL:Black Belt Class Features		DISPLAYLOCATION:Character
-ABILITYCATEGORY:Dancer Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Dancer Class Feature		PLURAL:Dancer Class Features			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Scholar Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Scholar Class Feature		PLURAL:Scholar Class Features			DISPLAYLOCATION:Character
-ABILITYCATEGORY:Sword Saint Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Sword Saint Class Feature	PLURAL:Sword Saint Class Features		DISPLAYLOCATION:Character
+ABILITYCATEGORY:Black Belt Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Black Belt Class Feature		PLURAL:Black Belt Class Features		DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Dancer Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Dancer Class Feature		PLURAL:Dancer Class Features			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Scholar Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Scholar Class Feature		PLURAL:Scholar Class Features			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Sword Saint Class Feature		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Sword Saint Class Feature	PLURAL:Sword Saint Class Features		DISPLAYLOCATION:Class Features
 
 ###Block: Class Talents
 # Archer
@@ -84,8 +84,8 @@ ABILITYCATEGORY:Beastmaster Trick			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CA
 
 ###Block: Class Abilities
 # Archer
-ABILITYCATEGORY:Archery Style Feat					VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO						CATEGORY:Internal			TYPE:ArcheryStyleFeat							PLURAL:Archery Style Feats					DISPLAYLOCATION:Class Features
-ABILITYCATEGORY:Archer Close-Ranged Sniper Feat			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO						CATEGORY:Internal			TYPE:ArcherCloseRangedSniperFeat					PLURAL:Archer Close-Ranged Sniper Featss			DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Archery Style Feat					VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO						CATEGORY:Internal			TYPE:ArcheryStyleFeat							PLURAL:Archery Style Feats					DISPLAYLOCATION:Feats
+ABILITYCATEGORY:Archer Close-Ranged Sniper Feat			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO						CATEGORY:Internal			TYPE:ArcherCloseRangedSniperFeat					PLURAL:Archer Close-Ranged Sniper Featss			DISPLAYLOCATION:Feats
 ABILITYCATEGORY:Archer Combat Trick Bonus Feat			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:FEAT			TYPE:Combat									PLURAL:Archer Combat Trick Bonus Feats			DISPLAYLOCATION:Feats
 ABILITYCATEGORY:Archery Style Rapid Reload			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:FEAT			ABILITYLIST:Rapid Reload						PLURAL:Archery Style Rapid Reload				DISPLAYLOCATION:Feats
 # Bard
