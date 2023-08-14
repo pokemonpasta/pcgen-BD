@@ -13,7 +13,8 @@ Harp-Bow								TYPE:Exotic.Ranged.Piercing.RangedPiercing.Bow.Archery
 
 
 #Power Weapons
+Animated Doll							TYPE:Exotic.Light.Elemental.PowerWeapon.RangedElemental
 Power Rod								TYPE:Exotic.OneHanded.Elemental.PowerWeapon.RangedElemental
-Power Staff								TYPE:Exotic.OneHanded.Elemental.PowerWeapon.RangedElemental
+Power Staff								TYPE:Exotic.TwoHanded.Elemental.PowerWeapon.RangedElemental
 
 

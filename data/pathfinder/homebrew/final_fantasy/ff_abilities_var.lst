@@ -628,3 +628,62 @@ CATEGORY=Class|Beastmaster.MOD	BONUS:VAR|Beastmaster_CF_OneWithTheWild|1|TYPE=Bo
 CATEGORY=Class|Beastmaster.MOD	BONUS:VAR|Beastmaster_CF_MasterOfThePack|1|TYPE=Boolean|PREFACT:1,ABILITIES,Beastmaster_CF_MasterOfThePack=True
 CATEGORY=Class|Beastmaster.MOD	BONUS:VAR|Beastmaster_CF_BeastOfLegend|1|TYPE=Boolean|PREFACT:1,ABILITIES,Beastmaster_CF_BeastOfLegend=True
 CATEGORY=Class|Beastmaster.MOD	BONUS:VAR|Beastmaster_CF_MasteryOfBeasts|1|TYPE=Boolean|PREFACT:1,ABILITIES,Beastmaster_CF_MasteryOfBeasts=True
+
+###Block: Black Mage
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_WeaponAndArmorProficiency|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_LimitBreaks|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_ManaWall|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_SpellFury|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_Spells|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_BlackMagery|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_SpellProficiency|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_Cantrips|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_ElementalShield|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_MageTalents|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_DarkAffliction|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_FocusedCaster|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_ElementalSeal|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_MetamagicEnhancement|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_ClearMind|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_CounterMagic|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_ArcaneKnowledge|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_NewArcana|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_SchoolPower|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_Doublecast|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_Loremaster|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_AdvancedMageTalents|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_MetamagicFlexibility|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_SuddenMetamagic|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_BypassSpellResistance|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_1MPSpell|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_ShapedArea|0
+CATEGORY=Class|Black Mage.MOD		DEFINE:BlackMage_CF_BlackWizard|0
+#
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_WeaponAndArmorProficiency|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_WeaponAndArmorProficiency=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_LimitBreaks|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_LimitBreaks=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_ManaWall|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_ManaWall=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_SpellFury|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_SpellFury=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_Spells|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_Spells=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_BlackMagery|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_BlackMagery=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_SpellProficiency|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_SpellProficiency=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_Cantrips|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_Cantrips=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_ElementalShield|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_ElementalShield=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_MageTalents|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_MageTalents=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_DarkAffliction|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_DarkAffliction=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_FocusedCaster|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_FocusedCaster=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_ElementalSeal|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_ElementalSeal=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_MetamagicEnhancement|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_MetamagicEnhancement=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_ClearMind|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_ClearMind=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_CounterMagic|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_CounterMagic=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_ArcaneKnowledge|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_ArcaneKnowledge=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_NewArcana|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_NewArcana=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_SchoolPower|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_SchoolPower=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_Doublecast|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_Doublecast=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_Loremaster|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_Loremaster=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_AdvancedMageTalents|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_AdvancedMageTalents=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_MetamagicFlexibility|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_MetamagicFlexibility=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_SuddenMetamagic|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_SuddenMetamagic=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_BypassSpellResistance|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_BypassSpellResistance=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_1MPSpell|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_1MPSpell=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_ShapedArea|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_ShapedArea=True
+CATEGORY=Class|Black Mage.MOD		BONUS:VAR|BlackMage_CF_BlackWizard|1|TYPE=Boolean|PREFACT:1,ABILITIES,BlackMage_CF_BlackWizard=True

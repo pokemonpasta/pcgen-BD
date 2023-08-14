@@ -1,12 +1,9 @@
 
-
-
-
 ###Block - Class
 Archer		CATEGORY:Class		VISIBLE:NO	ABILITY:Archer Archetype|AUTOMATIC|Archer Archetype				DEFINE:ClassProgression_Archer|0		BONUS:VAR|ClassProgression_Archer|ArcherLVL
 Bard			CATEGORY:Class		VISIBLE:NO	ABILITY:Bard Archetype|AUTOMATIC|Bard Archetype					DEFINE:ClassProgression_Bard|0		BONUS:VAR|ClassProgression_Bard|BardLVL
 Beastmaster		CATEGORY:Class		VISIBLE:NO	ABILITY:Beastmaster Archetype|AUTOMATIC|Beastmaster Archetype		DEFINE:ClassProgression_Beastmaster|0	BONUS:VAR|ClassProgression_Beastmaster|BeastmasterLVL
-Black Mage		CATEGORY:Class		VISIBLE:NO	ABILITY:Black Mage Archetype|AUTOMATIC|Black Mage Archetype		DEFINE:ClassProgression_BlackMage|0		BONUS:VAR|ClassProgression_BlackMage|BlackMageLVL
+Black Mage		CATEGORY:Class		VISIBLE:NO	ABILITY:Black Mage Archetype|AUTOMATIC|Black Mage Archetype			DEFINE:ClassProgression_BlackMage|0		BONUS:VAR|ClassProgression_BlackMage|BlackMageLVL
 Blue Mage		CATEGORY:Class		VISIBLE:NO	ABILITY:Blue Mage Archetype|AUTOMATIC|Blue Mage Archetype			DEFINE:ClassProgression_BlueMage|0		BONUS:VAR|ClassProgression_BlueMage|BlueMageLVL
 Chemist		CATEGORY:Class		VISIBLE:NO	ABILITY:Chemist Archetype|AUTOMATIC|Chemist Archetype			DEFINE:ClassProgression_Chemist|0		BONUS:VAR|ClassProgression_Chemist|ChemistLVL
 Chocobo Knight	CATEGORY:Class		VISIBLE:NO	ABILITY:Chocobo Knight Archetype|AUTOMATIC|Chocobo Knight Archetype		DEFINE:ClassProgression_ChocoboKnight|0	BONUS:VAR|ClassProgression_ChocoboKnight|ChocoboKnightLVL
@@ -124,6 +121,36 @@ CATEGORY=Class|Beastmaster.MOD	ABILITY:Beastmaster Class Feature|AUTOMATIC|Beast
 CATEGORY=Class|Beastmaster.MOD	ABILITY:Beastmaster Class Feature|AUTOMATIC|Beastmaster ~ Master of the Pack|PREMULT:2,[PREVARGTEQ:ClassProgression_Beastmaster,17],[PREVAREQ:Beastmaster_CF_MasterOfThePack,0]
 CATEGORY=Class|Beastmaster.MOD	ABILITY:Beastmaster Class Feature|AUTOMATIC|Beastmaster ~ Beast of Legend|PREMULT:2,[PREVARGTEQ:ClassProgression_Beastmaster,19],[PREVAREQ:Beastmaster_CF_BeastOfLegend,0]
 CATEGORY=Class|Beastmaster.MOD	ABILITY:Beastmaster Class Feature|AUTOMATIC|Beastmaster ~ Mastery of Beasts|PREMULT:2,[PREVARGTEQ:ClassProgression_Beastmaster,20],[PREVAREQ:Beastmaster_CF_MasteryOfBeasts,0]
+
+###Block: Black Mage
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Weapon and Armor Proficiency|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,1],[PREVAREQ:BlackMage_CF_WeaponAndArmorProficiency,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Limit Breaks|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,1],[PREVAREQ:BlackMage_CF_LimitBreaks,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Mana Wall|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,1],[PREVAREQ:BlackMage_CF_ManaWall,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Spell Fury|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,1],[PREVAREQ:BlackMage_CF_SpellFury,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Spells|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,1],[PREVAREQ:BlackMage_CF_Spells,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Black Magery|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,1],[PREVAREQ:BlackMage_CF_BlackMagery,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Spell Proficiency|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,1],[PREVAREQ:BlackMage_CF_SpellProficiency,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Cantrips|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,1],[PREVAREQ:BlackMage_CF_Cantrips,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Elemental Shield|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,2],[PREVAREQ:BlackMage_CF_ElementalShield,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Mage Talents|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,2],[PREVAREQ:BlackMage_CF_MageTalents,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Dark Affliction|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,3],[PREVAREQ:BlackMage_CF_DarkAffliction,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Focused Caster|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,3],[PREVAREQ:BlackMage_CF_FocusedCaster,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Elemental Seal|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,4],[PREVAREQ:BlackMage_CF_ElementalSeal,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Metamagic Enhancement|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,5],[PREVAREQ:BlackMage_CF_MetamagicEnhancement,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Clear Mind|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,5],[PREVAREQ:BlackMage_CF_ClearMind,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Counter Magic|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,6],[PREVAREQ:BlackMage_CF_CounterMagic,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Arcane Knowledge|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,7],[PREVAREQ:BlackMage_CF_ArcaneKnowledge,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ New Arcana|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,7],[PREVAREQ:BlackMage_CF_NewArcana,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ School Power|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,9],[PREVAREQ:BlackMage_CF_SchoolPower,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Doublecast|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,10],[PREVAREQ:BlackMage_CF_Doublecast,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Loremaster|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,11],[PREVAREQ:BlackMage_CF_Loremaster,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Advanced Mage Talents|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,12],[PREVAREQ:BlackMage_CF_AdvancedMageTalents,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Metamagic Flexibility|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,13],[PREVAREQ:BlackMage_CF_MetamagicFlexibility,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Sudden Metamagic|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,15],[PREVAREQ:BlackMage_CF_SuddenMetamagic,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Bypass Spell Resistance|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,17],[PREVAREQ:BlackMage_CF_BypassSpellResistance,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ 1 MP Spell|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,18],[PREVAREQ:BlackMage_CF_1MPSpell,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Shaped Area|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,19],[PREVAREQ:BlackMage_CF_ShapedArea,0]
+CATEGORY=Class|Black Mage.MOD		ABILITY:Black Mage Class Feature|AUTOMATIC|Black Mage ~ Black Wizard|PREMULT:2,[PREVARGTEQ:ClassProgression_BlackMage,20],[PREVAREQ:BlackMage_CF_BlackWizard,0]
 
 ###Block: Red Mage
 CATEGORY=Class|Red Mage.MOD	ABILITY:Red Mage Class Feature|AUTOMATIC|Red Mage ~ Weapon and Armor Proficiency|PREVARGTEQ:ClassProgression_RedMage,1
@@ -442,6 +469,77 @@ Wolf						KEY:Beastmaster Animal Focus ~ Wolf				CATEGORY:Internal			TYPE:Beastm
 ###Block: Flanking Companion Feat choice
 Back to Back				KEY:Flanking Companion Feat ~ Back to Back		CATEGORY:Internal			TYPE:BeastmasterFlankingCompanionFeat	ABILITY:FEAT|AUTOMATIC|Back to Back
 Outflank					KEY:Flanking Companion Feat ~ Outflank			CATEGORY:Internal			TYPE:BeastmasterFlankingCompanionFeat	ABILITY:FEAT|AUTOMATIC|Outflank
+
+# ==========
+# Black Mage
+# ==========
+
+###Block: MP
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|3|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,1
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|4|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,2
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|5|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,3
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|6|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,4
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|8|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,5
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|11|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,6
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|15|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,7
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|20|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,8
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|26|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,9
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|32|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,10
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|39|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,11
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|47|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,12
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|56|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,13
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|65|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,14
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|75|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,15
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|86|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,16
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|98|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,17
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|110|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,18
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|122|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,19
+CATEGORY=Class|Black Mage.MOD						BONUS:VAR|MP|135|TYPE=Black Mage|PREVARGTEQ:ClassProgression_BlackMage,20
+#
+CATEGORY=Class|Black Mage.MOD						ABILITY:Internal|AUTOMATIC|Bonus MP ~ INT
+
+
+###Block: Black Mage Spell Granter
+Black Mage Spell Level 1		CATEGORY:Special Ability	TYPE:BlackMageSpellLevelChoice		PRESTAT:1,INT=11										STACK:YES	MULT:YES	CHOOSE:NOCHOICE	BONUS:SPELLKNOWN|CLASS=Black Mage;LEVEL=1|1
+Black Mage Spell Level 2		CATEGORY:Special Ability	TYPE:BlackMageSpellLevelChoice		PRESTAT:1,INT=12		PRECLASS:1,Black Mage=3					STACK:YES	MULT:YES	CHOOSE:NOCHOICE	BONUS:SPELLKNOWN|CLASS=Black Mage;LEVEL=2|1
+Black Mage Spell Level 3		CATEGORY:Special Ability	TYPE:BlackMageSpellLevelChoice		PRESTAT:1,INT=13		PRECLASS:1,Black Mage=5					STACK:YES	MULT:YES	CHOOSE:NOCHOICE	BONUS:SPELLKNOWN|CLASS=Black Mage;LEVEL=3|1
+Black Mage Spell Level 4		CATEGORY:Special Ability	TYPE:BlackMageSpellLevelChoice		PRESTAT:1,INT=14		PRECLASS:1,Black Mage=7					STACK:YES	MULT:YES	CHOOSE:NOCHOICE	BONUS:SPELLKNOWN|CLASS=Black Mage;LEVEL=4|1
+Black Mage Spell Level 5		CATEGORY:Special Ability	TYPE:BlackMageSpellLevelChoice		PRESTAT:1,INT=15		PRECLASS:1,Black Mage=9					STACK:YES	MULT:YES	CHOOSE:NOCHOICE	BONUS:SPELLKNOWN|CLASS=Black Mage;LEVEL=5|1
+Black Mage Spell Level 6		CATEGORY:Special Ability	TYPE:BlackMageSpellLevelChoice		PRESTAT:1,INT=16		PRECLASS:1,Black Mage=11				STACK:YES	MULT:YES	CHOOSE:NOCHOICE	BONUS:SPELLKNOWN|CLASS=Black Mage;LEVEL=6|1
+Black Mage Spell Level 7		CATEGORY:Special Ability	TYPE:BlackMageSpellLevelChoice		PRESTAT:1,INT=17		PRECLASS:1,Black Mage=13				STACK:YES	MULT:YES	CHOOSE:NOCHOICE	BONUS:SPELLKNOWN|CLASS=Black Mage;LEVEL=7|1
+Black Mage Spell Level 8		CATEGORY:Special Ability	TYPE:BlackMageSpellLevelChoice		PRESTAT:1,INT=18		PRECLASS:1,Black Mage=15				STACK:YES	MULT:YES	CHOOSE:NOCHOICE	BONUS:SPELLKNOWN|CLASS=Black Mage;LEVEL=8|1
+Black Mage Spell Level 9		CATEGORY:Special Ability	TYPE:BlackMageSpellLevelChoice		PRESTAT:1,INT=19		PRECLASS:1,Black Mage=17				STACK:YES	MULT:YES	CHOOSE:NOCHOICE	BONUS:SPELLKNOWN|CLASS=Black Mage;LEVEL=9|1
+
+###Block: Black Mage Class Features
+Weapon and Armor Proficiency		KEY:Black Mage ~ Weapon and Armor Proficiency		CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature.SpecialQuality													DESC:Black Mages are proficient with the dagger, sling, power rod, power staff, animated dolls, and quarterstaff, but not with any type of armor or shield. Heavier armor interferes with a black mage's movements, which can cause his spells with somatic components to fail.																																																																																																																																					ABILITY:Internal|AUTOMATIC|Weapon Prof ~ Auto				AUTO:WEAPONPROF|Dagger|Sling|Power Rod|Power Staff|Animated Dolls|Quarterstaff
+Limit Breaks				KEY:Black Mage ~ Limit Breaks					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature.SpecialQuality.Supernatural					SORTKEY:__LimitBreaksBlackMage	DESC:At 1st level, the black mage receives the Limit Breaks (Mana Wall and Spell Fury).																																																																																																																																																																				DEFINE:BlackMageLimitBreakScaling|0		BONUS:VAR|BlackMageLimitBreakScaling|floor((classlevel("Black Mage")+3)/4)
+Mana Wall					KEY:Black Mage ~ Mana Wall					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature.SpecialQuality.Supernatural.LimitBreak			SORTKEY:_LimitBreakManaWall		DESC:This Limit Break shields the black mage from damage by using his MP pool at a rate of 5 damage per magic point. This Limit Break lasts for a duration of %1 rounds and the black mage has no control over it. If the black mage is out of MP, the Limit Break ends prematurely and the black mage takes damage as normal. This limit break requires only a swift action.|BlackMageLimitBreakScaling
+Spell Fury					KEY:Black Mage ~ Spell Fury					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature.SpecialQuality.Supernatural.LimitBreak			SORTKEY:_LimitBreakSpellFury		DESC:This Limit Break allows the black mage to cast a flurry of spells. For a duration of %1 rounds, the black mage is allowed to cast two black magic spells using 1 standard action (as long as the spells themselves are standard actions or less), spending MP as normal for both spells. These spells are cast simultaneously and must both be stated before any effects occur. If the black mage uses the doublecast ability while under this Limit Break, it becomes triplecast for that turn (he may cast up to three spells using the same action, spending MP as normal for all spells). This limit break requires only a swift action.|BlackMageLimitBreakScaling
+Spells					KEY:Black Mage ~ Spells						CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature.SpecialQuality													DESC:A black mage casts black magic spells which are drawn from the black mage spell list. A black mage begins play with 3 1st level black mage spells of his choice. The black mage also selects a number of additional 1st-level spells equal to his Intelligence modifier to add to his list of spells. Each time a character attains a new black mage level, he gains two spells of his choice to add to his list of spells. The two free spells must be of spell levels he can cast. Like most mages, a black mage can find or purchase scrolls with spells to add to his repertoire. &nl; To learn or cast a spell, the black mage must have an Intelligence score equal to at least 10 + the spell level (Int 11 for 1st-level spells, Int 12 for 2nd-level spells, and so forth). The Difficulty Class for a saving throw against a black mage’s spell is 10 + the spell level + the black mage’s Intelligence modifier. In addition, a black mage gains additional MP for having a high attribute (Intelligence—see Table: Bonus MP per Day (by Spell Level) on the MP System page).			BONUS:SPELLKNOWN|CLASS=Black Mage;LEVEL=1|3+INT		BONUS:ABILITYPOOL|Black Mage Spell Level Choice|2*(BlackMageLVL-1)
+Black Magery				KEY:Black Mage ~ Black Magery					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Spell Proficiency				KEY:Black Mage ~ Spell Proficiency				CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Cantrips					KEY:Black Mage ~ Cantrips					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Elemental Shield				KEY:Black Mage ~ Elemental Shield				CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Mage Talents				KEY:Black Mage ~ Mage Talents					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Dark Affliction				KEY:Black Mage ~ Dark Affliction				CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Focused Caster				KEY:Black Mage ~ Focused Caster				CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Elemental Seal				KEY:Black Mage ~ Elemental Seal				CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Metamagic Enhancement			KEY:Black Mage ~ Metamagic Enhancement			CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Clear Mind					KEY:Black Mage ~ Clear Mind					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Counter Magic				KEY:Black Mage ~ Counter Magic				CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Arcane Knowledge				KEY:Black Mage ~ Arcane Knowledge				CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+New Arcana					KEY:Black Mage ~ New Arcana					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+School Power				KEY:Black Mage ~ School Power					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Doublecast					KEY:Black Mage ~ Doublecast					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Loremaster					KEY:Black Mage ~ Loremaster					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Advanced Mage Talents			KEY:Black Mage ~ Advanced Mage Talents			CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Metamagic Flexibility			KEY:Black Mage ~ Metamagic Flexibility			CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Sudden Metamagic				KEY:Black Mage ~ Sudden Metamagic				CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Bypass Spell Resistance			KEY:Black Mage ~ Bypass Spell Resistance			CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+1 MP Spell					KEY:Black Mage ~ 1 MP Spell					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Shaped Area					KEY:Black Mage ~ Shaped Area					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+Black Wizard				KEY:Black Mage ~ Black Wizard					CATEGORY:Special Ability		SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/			TYPE:Black Mage Class Feature
+
 
 
 

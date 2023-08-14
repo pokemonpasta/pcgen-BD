@@ -410,3 +410,63 @@ FACTDEF:ABILITY|Beastmaster_Archetype_OneWithTheWild			DATAFORMAT:BOOLEAN	REQUIR
 FACTDEF:ABILITY|Beastmaster_Archetype_MasterOfThePack			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Master of the Pack				EXPLANATION:Determines whether the archetype affects - Master of the Pack
 FACTDEF:ABILITY|Beastmaster_Archetype_BeastOfLegend			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Beast of Legend					EXPLANATION:Determines whether the archetype affects - Beast of Legend
 FACTDEF:ABILITY|Beastmaster_Archetype_MasteryOfBeasts			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Mastery of Beasts					EXPLANATION:Determines whether the archetype affects - Mastery of Beasts
+
+###Block: Black Mage
+# CF
+FACTDEF:ABILITY|BlackMage_CF_WeaponAndArmorProficiency		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Weapon and Armor Proficiency			EXPLANATION:Weapon and Armor Proficiency removed
+FACTDEF:ABILITY|BlackMage_CF_LimitBreaks					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Limit Breaks					EXPLANATION:Limit Breaks removed
+FACTDEF:ABILITY|BlackMage_CF_ManaWall					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Mana Wall						EXPLANATION:Mana Wall removed
+FACTDEF:ABILITY|BlackMage_CF_SpellFury					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Spell Fury						EXPLANATION:Spell Fury removed
+FACTDEF:ABILITY|BlackMage_CF_Spells						DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Spells						EXPLANATION:Spells removed
+FACTDEF:ABILITY|BlackMage_CF_BlackMagery					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Black Magery					EXPLANATION:Black Magery removed
+FACTDEF:ABILITY|BlackMage_CF_SpellProficiency				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Spell Proficiency					EXPLANATION:Spell Proficiency removed
+FACTDEF:ABILITY|BlackMage_CF_Cantrips					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Cantrips						EXPLANATION:Cantrips removed
+FACTDEF:ABILITY|BlackMage_CF_ElementalShield				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Elemental Shield					EXPLANATION:Elemental Shield removed
+FACTDEF:ABILITY|BlackMage_CF_MageTalents					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Mage Talents					EXPLANATION:Mage Talents removed
+FACTDEF:ABILITY|BlackMage_CF_DarkAffliction				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Dark Affliction					EXPLANATION:Dark Affliction removed
+FACTDEF:ABILITY|BlackMage_CF_FocusedCaster				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Focused Caster					EXPLANATION:Focused Caster removed
+FACTDEF:ABILITY|BlackMage_CF_ElementalSeal				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Elemental Seal					EXPLANATION:Elemental Seal removed
+FACTDEF:ABILITY|BlackMage_CF_MetamagicEnhancement			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Metamagic Enhancement				EXPLANATION:Metamagic Enhancement removed
+FACTDEF:ABILITY|BlackMage_CF_ClearMind					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Clear Mind						EXPLANATION:Clear Mind removed
+FACTDEF:ABILITY|BlackMage_CF_CounterMagic					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Counter Magic					EXPLANATION:Counter Magic removed
+FACTDEF:ABILITY|BlackMage_CF_ArcaneKnowledge				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Arcane Knowledge					EXPLANATION:Arcane Knowledge removed
+FACTDEF:ABILITY|BlackMage_CF_NewArcana					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:New Arcana						EXPLANATION:New Arcana removed
+FACTDEF:ABILITY|BlackMage_CF_SchoolPower					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:School Power					EXPLANATION:School Power removed
+FACTDEF:ABILITY|BlackMage_CF_Doublecast					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Doublecast						EXPLANATION:Doublecast removed
+FACTDEF:ABILITY|BlackMage_CF_Loremaster					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Loremaster						EXPLANATION:Loremaster removed
+FACTDEF:ABILITY|BlackMage_CF_AdvancedMageTalents			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Advanced Mage Talents				EXPLANATION:Advanced Mage Talents removed
+FACTDEF:ABILITY|BlackMage_CF_MetamagicFlexibility			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Metamagic Flexibility				EXPLANATION:Metamagic Flexibility removed
+FACTDEF:ABILITY|BlackMage_CF_SuddenMetamagic				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Sudden Metamagic					EXPLANATION:Sudden Metamagic removed
+FACTDEF:ABILITY|BlackMage_CF_BypassSpellResistance			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Bypass Spell Resistance				EXPLANATION:Bypass Spell Resistance removed
+FACTDEF:ABILITY|BlackMage_CF_1MPSpell					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:1 MP Spell						EXPLANATION:1 MP Spell removed
+FACTDEF:ABILITY|BlackMage_CF_ShapedArea					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Shaped Area						EXPLANATION:Shaped Area removed
+FACTDEF:ABILITY|BlackMage_CF_BlackWizard					DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Black Wizard					EXPLANATION:Black Wizard removed
+#Archetype
+FACTDEF:ABILITY|BlackMage_Archetype_WeaponAndArmorProficiency	DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Weapon and Armor Proficiency			EXPLANATION:Determines whether the archetype affects - Weapon and Armor Proficiency
+FACTDEF:ABILITY|BlackMage_Archetype_LimitBreaks				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Limit Breaks					EXPLANATION:Determines whether the archetype affects - Limit Breaks
+FACTDEF:ABILITY|BlackMage_Archetype_ManaWall				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Mana Wall						EXPLANATION:Determines whether the archetype affects - Mana Wall
+FACTDEF:ABILITY|BlackMage_Archetype_SpellFury				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Spell Fury						EXPLANATION:Determines whether the archetype affects - Spell Fury
+FACTDEF:ABILITY|BlackMage_Archetype_Spells				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Spells						EXPLANATION:Determines whether the archetype affects - Spells
+FACTDEF:ABILITY|BlackMage_Archetype_BlackMagery				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Black Magery					EXPLANATION:Determines whether the archetype affects - Black Magery
+FACTDEF:ABILITY|BlackMage_Archetype_SpellProficiency			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Spell Proficiency					EXPLANATION:Determines whether the archetype affects - Spell Proficiency
+FACTDEF:ABILITY|BlackMage_Archetype_Cantrips				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Cantrips						EXPLANATION:Determines whether the archetype affects - Cantrips
+FACTDEF:ABILITY|BlackMage_Archetype_ElementalShield			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Elemental Shield					EXPLANATION:Determines whether the archetype affects - Elemental Shield
+FACTDEF:ABILITY|BlackMage_Archetype_MageTalents				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Mage Talents					EXPLANATION:Determines whether the archetype affects - Mage Talents
+FACTDEF:ABILITY|BlackMage_Archetype_DarkAffliction			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Dark Affliction					EXPLANATION:Determines whether the archetype affects - Dark Affliction
+FACTDEF:ABILITY|BlackMage_Archetype_FocusedCaster			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Focused Caster					EXPLANATION:Determines whether the archetype affects - Focused Caster
+FACTDEF:ABILITY|BlackMage_Archetype_ElementalSeal			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Elemental Seal					EXPLANATION:Determines whether the archetype affects - Elemental Seal
+FACTDEF:ABILITY|BlackMage_Archetype_MetamagicEnhancement		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Metamagic Enhancement				EXPLANATION:Determines whether the archetype affects - Metamagic Enhancement
+FACTDEF:ABILITY|BlackMage_Archetype_ClearMind				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Clear Mind						EXPLANATION:Determines whether the archetype affects - Clear Mind
+FACTDEF:ABILITY|BlackMage_Archetype_CounterMagic			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Counter Magic					EXPLANATION:Determines whether the archetype affects - Counter Magic
+FACTDEF:ABILITY|BlackMage_Archetype_ArcaneKnowledge			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Arcane Knowledge					EXPLANATION:Determines whether the archetype affects - Arcane Knowledge
+FACTDEF:ABILITY|BlackMage_Archetype_NewArcana				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:New Arcana						EXPLANATION:Determines whether the archetype affects - New Arcana
+FACTDEF:ABILITY|BlackMage_Archetype_SchoolPower				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:School Power					EXPLANATION:Determines whether the archetype affects - School Power
+FACTDEF:ABILITY|BlackMage_Archetype_Doublecast				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Doublecast						EXPLANATION:Determines whether the archetype affects - Doublecast
+FACTDEF:ABILITY|BlackMage_Archetype_Loremaster				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Loremaster						EXPLANATION:Determines whether the archetype affects - Loremaster
+FACTDEF:ABILITY|BlackMage_Archetype_AdvancedMageTalents		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Advanced Mage Talents				EXPLANATION:Determines whether the archetype affects - Advanced Mage Talents
+FACTDEF:ABILITY|BlackMage_Archetype_MetamagicFlexibility		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Metamagic Flexibility				EXPLANATION:Determines whether the archetype affects - Metamagic Flexibility
+FACTDEF:ABILITY|BlackMage_Archetype_SuddenMetamagic			DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Sudden Metamagic					EXPLANATION:Determines whether the archetype affects - Sudden Metamagic
+FACTDEF:ABILITY|BlackMage_Archetype_BypassSpellResistance		DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Bypass Spell Resistance				EXPLANATION:Determines whether the archetype affects - Bypass Spell Resistance
+FACTDEF:ABILITY|BlackMage_Archetype_1MPSpell				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:1 MP Spell						EXPLANATION:Determines whether the archetype affects - 1 MP Spell
+FACTDEF:ABILITY|BlackMage_Archetype_ShapedArea				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Shaped Area						EXPLANATION:Determines whether the archetype affects - Shaped Area
+FACTDEF:ABILITY|BlackMage_Archetype_BlackWizard				DATAFORMAT:BOOLEAN	REQUIRED:NO	SELECTABLE:NO	VISIBLE:YES	DISPLAYNAME:Black Wizard					EXPLANATION:Determines whether the archetype affects - Black Wizard
