@@ -48,6 +48,7 @@ Knowledge (Religion).MOD	SITUATION:Identify Undead
 Sense Motive.MOD		SITUATION:Hunch about a Social Situation
 Sense Motive.MOD		SITUATION:Notice when someone is enchanted or possessed
 #
+Stealth.MOD				SITUATION:Remain unnoticed in shadowed area
 Stealth.MOD				SITUATION:Terrain that matches Camouflage foliage
 #
 Survival.MOD			SITUATION:At Sea
