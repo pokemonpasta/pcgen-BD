@@ -1,4 +1,18 @@
 
+###Block: General Feats
+Familiar		CATEGORY:FEAT	TYPE:General	SOURCELINK:https://www.finalfantasyd20.com/feats/general-feats/familiar/	DESC:You form a powerful bond with a familiar.		PRECLASS:TYPE.Caster=1	!PRECLASS:TYPE.Caster=2		ABILITY:Internal|AUTOMATIC|Standard Familiar List	FOLLOWERS:Familiar|1
+
+
+
+
+
+
+
+
+
+
+
+
 #TODO: Any Bard feats need to have the TYPE "Bard"
 #TODO: When updating feats, any BAB feats need to have "PREMULT:1,[PRETOTALAB:x],[PREVARGTEQ:ArcherTrainingFeatQualify,x]" (see pf_feats.lst)
 ###Block - Feats

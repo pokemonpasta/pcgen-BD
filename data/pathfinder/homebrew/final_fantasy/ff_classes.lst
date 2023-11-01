@@ -15,7 +15,7 @@ CLASS:Archer	STARTSKILLPTS:6	CSKILL:Acrobatics|Bluff|Climb|TYPE=Craft|Heal|Knowl
 # Bard: A performer whose music works magic-a wanderer, a storyteller, and an inspirer.
 CLASS:Bard	MAXLEVEL:20
 #CLASS:Bard	FACT:Abb|	FACT:ClassType|
-CLASS:Bard	HD:8	TYPE:Base.PC	SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/bard/	DEFINE:BardLVL|0	BONUS:VAR|BardLVL|CL
+CLASS:Bard	HD:8	TYPE:Base.PC.Caster	SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/bard/	DEFINE:BardLVL|0	BONUS:VAR|BardLVL|CL
 CLASS:Bard	BONUS:COMBAT|BASEAB|classlevel("APPLIEDAS=NONEPIC")*3/4|TYPE=Base.REPLACE|PREVAREQ:UseAlternateBABProgression,0
 CLASS:Bard	BONUS:VAR|ClassBABModerate|classlevel("APPLIEDAS=NONEPIC")|PREVAREQ:UseFractionalBAB,1
 CLASS:Bard	BONUS:SAVE|BASE.Fortitude|classlevel("APPLIEDAS=NONEPIC")/3
@@ -65,7 +65,7 @@ CLASS:Beastmaster	STARTSKILLPTS:4	CSKILL:Acrobatics|Climb|TYPE=Craft|Handle Anim
 # Black Mage: A potent spellcaster schooled in the magical art of destruction magic.
 CLASS:Black Mage	MAXLEVEL:20
 #CLASS:Black Mage	FACT:Abb|	FACT:ClassType|
-CLASS:Black Mage	HD:6	TYPE:Base.PC	SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/	DEFINE:BlackMageLVL|0	BONUS:VAR|BlackMageLVL|CL
+CLASS:Black Mage	HD:6	TYPE:Base.PC.Caster	SOURCELINK:https://www.finalfantasyd20.com/classes/core-classes/black-mage/	DEFINE:BlackMageLVL|0	BONUS:VAR|BlackMageLVL|CL
 CLASS:Black Mage	BONUS:COMBAT|BASEAB|classlevel("APPLIEDAS=NONEPIC")*1/2|TYPE=Base.REPLACE|PREVAREQ:UseAlternateBABProgression,0
 CLASS:Black Mage	BONUS:VAR|ClassBABPoor|classlevel("APPLIEDAS=NONEPIC")|PREVAREQ:UseFractionalBAB,1
 CLASS:Black Mage	BONUS:SAVE|BASE.Fortitude|classlevel("APPLIEDAS=NONEPIC")/3
