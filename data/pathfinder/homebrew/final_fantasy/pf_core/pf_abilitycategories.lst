@@ -82,3 +82,9 @@ ABILITYCATEGORY:Favored Class Bonus	POOL:POOL_FavoredClassBonus	VISIBLE:QUALIFY	
 ABILITYCATEGORY:Archetype	VISIBLE:NO		EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Archetype
 #ABILITYCATEGORY:Class Archetype	VISIBLE:YES	EDITABLE:YES		EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Archetype		TYPE:Archetype	PLURAL:Archetypes				DISPLAYLOCATION:Archetype
 ABILITYCATEGORY:ACF		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO		CATEGORY:Archetype		TYPE:ACF		PLURAL:Alternate Class Features	DISPLAYLOCATION:Archetype
+
+###Block: Familiars
+# Ability Category				Visible		Editable?		Change Pool?	Category of Object		Type of Object								Plural description for UI		Display Location
+ABILITYCATEGORY:Familiar Class Feature	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:NO		CATEGORY:Special Ability	TYPE:Familiar Class Feature.FamiliarClassFeatures		PLURAL:Familiar Class Features	DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Familiar Alertness Choice	VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	CATEGORY:Special Ability	TYPE:Familiar Alertness Choice.FamiliarAlertnessChoice	PLURAL:Familiar Alertness Choice	DISPLAYLOCATION:Class Features
+ABILITYCATEGORY:Imp Consular Choice		VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	CATEGORY:Internal			TYPE:Imp Consular Choice						PLURAL:Familiar Alertness Choice	DISPLAYLOCATION:Class Features

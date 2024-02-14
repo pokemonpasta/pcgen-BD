@@ -13,6 +13,7 @@ PUBNAMEWEB:http://www.finalfantasyd20.com/
 
 # Advanced Players Guide
 ABILITY:advanced_players_guide/pf_abilities_apg.lst
+ABILITY:advanced_players_guide/pf_abilities_familiar_apg.lst
 ABILITY:advanced_players_guide/pf_feats_apg.lst
 ABILITYCATEGORY:advanced_players_guide/pf_abilitycategories_apg.lst
 
@@ -24,3 +25,6 @@ TEMPLATE:dirty_tactics_toolbox/pf_templates_dtt.lst
 ABILITY:ultimate_combat/pf_feats_uc.lst
 ABILITYCATEGORY:ultimate_combat/pf_abilitycategories_uc.lst
 WEAPONPROF:ultimate_combat/pf_profs_weapon_uc.lst
+
+# Ultimate Magic
+TEMPLATE:ultimate_magic/pf_templates_um.lst

@@ -44,6 +44,15 @@ KIT:pf_kits_companion.lst
 RACE:pf_races_companion.lst
 TEMPLATE:pf_templates_companion.lst
 
+# Familiar
+ABILITY:pf_abilities_familiar.lst
+ABILITY:pf_abilities_familiar_race.lst
+ABILITY:pf_abilities_race.lst
+CLASS:pf_classes_race.lst
+KIT:pf_kits_familiar.lst
+RACE:pf_races_familiar.lst
+TEMPLATE:pf_templates_familiar.lst
+
 # Proficiencies
 ARMORPROF:pf_profs_armor.lst
 SHIELDPROF:pf_profs_shield.lst

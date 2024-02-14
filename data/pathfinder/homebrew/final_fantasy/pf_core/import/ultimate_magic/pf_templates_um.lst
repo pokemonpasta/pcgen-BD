@@ -1,0 +1,4 @@
+
+###Block: Familiar template
+# Template Name			Visible	Template															Add					Ability										Apply Kit					Bonus Languages
+Thrush Familiar Language	VISIBLE:NO																	ADD:LANGUAGE|TYPE=Spoken	ABILITY:Special Ability|AUTOMATIC|Familiar ~ Speak One Language

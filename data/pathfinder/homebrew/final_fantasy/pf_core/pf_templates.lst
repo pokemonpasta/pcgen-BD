@@ -927,3 +927,30 @@ Celestial Creature				VISIBLE:YES	DR:5/Evil|PREMULT:1,[PREVARGTEQ:CompanionHD,5]
 Fiendish Creature					VISIBLE:YES	DR:5/Good|PREMULT:1,[PREVARGTEQ:CompanionHD,5],[PRELEVEL:MIN=5]	SOURCEPAGE:p.294	DEFINE:FiendishResistanceBonus|0											BONUS:DR|Good|5|PREMULT:1,[PREVARGTEQ:CompanionHD,11],[PRELEVEL:MIN=11]	BONUS:MISC|CR|1|PREMULT:1,[PREVARGTEQ:CompanionHD,5],[PRELEVEL:MIN=5]																	BONUS:VAR|FiendishResistanceBonus|5	BONUS:VAR|ColdResistanceBonus,FireResistanceBonus|FiendishResistanceBonus|TYPE=Resistance	BONUS:VAR|FiendishResistanceBonus|5|PREMULT:1,[PREVARGTEQ:CompanionHD,5],[PRELEVEL:MIN=5]	BONUS:VAR|FiendishResistanceBonus|5|PREMULT:1,[PREVARGTEQ:CompanionHD,11],[PRELEVEL:MIN=11]	BONUS:VAR|DarkvisionRange|60|TYPE=Base								ABILITY:Special Ability|AUTOMATIC|Fiendish Creature ~ Smite Good					SR:CR+5	FACT:AppliedName|Fiendish
 Giant Creature		CR:1			VISIBLE:YES												SOURCEPAGE:p.295							PRESIZELT:C		BONUS:ABILITYPOOL|Giant Creature Option|1																																																																																																																																			FACT:AppliedName|Giant
 Young Creature		CR:-1			VISIBLE:YES												SOURCEPAGE:p.295																																									BONUS:SIZEMOD|NUMBER|-1	BONUS:STAT|DEX|4|TYPE=Size	BONUS:STAT|STR,CON|-4				BONUS:VAR|AC_Natural_Armor|-2	BONUS:VAR|SizeDecrease|-1																																																																																	FACT:AppliedName|Young
+
+#Bonus Language ~ xxx		VISIBLE:NO		LANGBONUS:
+###Block: Core Rule Book Languages
+# Template Name				Visible	Bonus Languages
+Bonus Language ~ Abyssal		VISIBLE:NO	LANGBONUS:Abyssal
+Bonus Language ~ Aklo			VISIBLE:NO	LANGBONUS:Aklo
+Bonus Language ~ Aquan			VISIBLE:NO	LANGBONUS:Aquan
+Bonus Language ~ Auran			VISIBLE:NO	LANGBONUS:Auran
+Bonus Language ~ Celestial		VISIBLE:NO	LANGBONUS:Celestial
+Bonus Language ~ Common			VISIBLE:NO	LANGBONUS:Common
+Bonus Language ~ Draconic		VISIBLE:NO	LANGBONUS:Draconic
+Bonus Language ~ Dwarven		VISIBLE:NO	LANGBONUS:Dwarven
+Bonus Language ~ Elven			VISIBLE:NO	LANGBONUS:Elven
+Bonus Language ~ Giant			VISIBLE:NO	LANGBONUS:Giant
+Bonus Language ~ Gnoll			VISIBLE:NO	LANGBONUS:Gnoll
+Bonus Language ~ Gnome			VISIBLE:NO	LANGBONUS:Gnome
+Bonus Language ~ Goblin			VISIBLE:NO	LANGBONUS:Goblin
+Bonus Language ~ Halfling		VISIBLE:NO	LANGBONUS:Halfling
+Bonus Language ~ Ignan			VISIBLE:NO	LANGBONUS:Ignan
+Bonus Language ~ Infernal		VISIBLE:NO	LANGBONUS:Infernal
+Bonus Language ~ Orc			VISIBLE:NO	LANGBONUS:Orc
+Bonus Language ~ Sylvan			VISIBLE:NO	LANGBONUS:Sylvan
+Bonus Language ~ Terran			VISIBLE:NO	LANGBONUS:Terran
+Bonus Language ~ Undercommon		VISIBLE:NO	LANGBONUS:Undercommon
+Bonus Language ~ All			VISIBLE:NO	LANGBONUS:ALL
+Bonus Language ~ Any Spoken		VISIBLE:NO	LANGBONUS:TYPE=Spoken
+Bonus Language ~ Any Human Language	VISIBLE:NO	LANGBONUS:TYPE=ModernHumanLanguage,TYPE=HumanRegional,TYPE=Human

@@ -1,0 +1,5 @@
+
+###Block: Familiar Templates
+# Template Name			Unique Key					Visible	Source Page		Add					Main Race Type		Race Subtype
+Familiar Type			KEY:Familiar ~ Augmented Animal	VISIBLE:NO	SOURCEPAGE:p.82						RACETYPE:Magical Beast	RACESUBTYPE:Augmented Animal
+Familiar Speaks One Language							VISIBLE:NO	SOURCEPAGE:p.82	ADD:LANGUAGE|TYPE=Spoken
